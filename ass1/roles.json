@@ -1,0 +1,33 @@
+{
+    "binding agent":[
+        "egg", "milk", "honey", "juice", "yolk", "syrup","water","cream","yogurt"
+    ],
+    "fat":[
+        "butter","margarine","shortening","oil","lard","fat"
+    ],
+    "sugar":[
+        "sugar","sweetener","fructose"
+    ],
+    "flour":[
+        "flour","cornstarch","wheat germ","baking mix","sourdough","cookie mix","cookie dough"
+    ],
+    "rising agent":[
+        "baking soda", "baking powder","yeast","hartshorn"
+    ],
+    "flavor texture":[
+        "cinnamon", "salt", "vanilla" ,"extract","oats","tartar","raisins","chocolate","pecans","nut","ginger",
+        "molasse","cocoa","clove","pumpkin","lemon","orange","coconut","apple","melon","jam","seed","banana",
+        "nectar","berr","almond","granola","quinoa","crumbs","coffee","cheese","marshmallow","toffee","lavender","flower",
+        "pepper","potato","chip","pear","candy","sprinkles","candies","cherr","pecan","bourbon","wine","whisky","cereal","oat",
+        "fruit","cake","cookies","color","cashew","liqueur","jelly","topping","brandy","lime","soda","vinegar","zucchini","lollipop",
+        "crackers","rosemary","beef","persimmon","lime","spice","carrot","mayo","ripe","date","tahini","pistachio",
+        "brownie","cider","vinegar","pulp","cannellini","tea","pretzel","figs","dried","currants","noodles","cardamom",
+        "avocado","bean","apricot","pie","raisin","decorating","mango","frost","citron","rum","vodka","gum","pop","kiwi",
+        "caramel","pea","anise","carob","corn","champagne","apricot","meat","cacao","queso","tofu","bacon","ketchup","ice",
+        "mahleb","espresso","paprika","prunes","graham","chai","beer","protein","mint","pizza","sorghum","amaranth","meringue",
+        "whiskey","durian"
+
+
+
+    ]
+}
