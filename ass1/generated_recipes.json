@@ -1,0 +1,824 @@
+[
+  {
+    "title": "dtAXwFvNLYKxqVJMVDBBcssfV",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "tablespoon",
+        "name": "colored edible glitter",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "dried cranberry",
+        "role": "flavor texture",
+        "quantity": 3.3
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "fresh blueberry",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "cup",
+        "name": "chopped fresh strawberry",
+        "role": "flavor texture",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "vegetable oil",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 641
+  },
+  {
+    "title": "qgXCaBRtCfSxbZRrLsYPTgXyK",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cup",
+        "name": "multicolored candy sprinkle",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "fresh blueberry",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "quinoa",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "vegetable oil",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 531
+  },
+  {
+    "title": "XZgzuzbQRIKdtGVXMsCdGjLtS",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "multicolored candy sprinkle",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "dried cranberry",
+        "role": "flavor texture",
+        "quantity": 3.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "vegetable oil",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 637
+  },
+  {
+    "title": "SKauqeNySLpmaoiBLYhiVhvrg",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoon",
+        "name": "colored edible glitter",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "chopped fresh strawberry",
+        "role": "flavor texture",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cup",
+        "name": "dried cranberry",
+        "role": "flavor texture",
+        "quantity": 3.3
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "tablespoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 612
+  },
+  {
+    "title": "ZgEhXixlDfrrFdRMMgERXsaLN",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cup",
+        "name": "multicolored candy sprinkle",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "fresh blueberry",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "tablespoon",
+        "name": "colored edible glitter",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "vegetable oil",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 614
+  },
+  {
+    "title": "noiCozHKavRfKuoIDlJYXQgDo",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cup",
+        "name": "chopped fresh strawberry",
+        "role": "flavor texture",
+        "quantity": 0.8
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "dried cranberry",
+        "role": "flavor texture",
+        "quantity": 3.3
+      },
+      {
+        "measure": "cup",
+        "name": "multicolored candy sprinkle",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "quinoa",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "fresh blueberry",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 612
+  },
+  {
+    "title": "MUgQbivmgmyEYEXKPxkxkmydR",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cup",
+        "name": "dried cranberry",
+        "role": "flavor texture",
+        "quantity": 3.3
+      },
+      {
+        "measure": "tablespoon",
+        "name": "colored edible glitter",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "fresh blueberry",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "teaspoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "canola oil",
+        "role": "fat",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 663
+  },
+  {
+    "title": "FNBaoGTIRsRiAaFHuoJkbJTBZ",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cup",
+        "name": "dried cranberry",
+        "role": "flavor texture",
+        "quantity": 3.3
+      },
+      {
+        "measure": "cup",
+        "name": "quinoa",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "multicolored candy sprinkle",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "teaspoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "vegetable oil",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "canola oil",
+        "role": "fat",
+        "quantity": 1.2
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 637
+  },
+  {
+    "title": "SDpqicxoLgwmPEaMgcUKlztKQ",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "tablespoon",
+        "name": "colored edible glitter",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "hemp seed heart",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "multicolored candy sprinkle",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "vegetable oil",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "grapeseed oil",
+        "role": "fat",
+        "quantity": 1.7
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 611
+  },
+  {
+    "title": "ktTBAkCssyDHztgHThNnYZqup",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 2.5
+      },
+      {
+        "measure": "cups",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Caramel Filled Morsel",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "units",
+        "name": "drop food coloring",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "quinoa",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "tablespoon",
+        "name": "colored edible glitter",
+        "role": "flavor texture",
+        "quantity": 1.7
+      },
+      {
+        "measure": "cup",
+        "name": "fresh blueberry",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 1.2
+      },
+      {
+        "measure": "cup",
+        "name": "honey",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "yogurt",
+        "role": "binding agent",
+        "quantity": 1.7
+      },
+      {
+        "measure": "teaspoons",
+        "name": "light corn syrup",
+        "role": "binding agent",
+        "quantity": 7.5
+      },
+      {
+        "measure": "cup",
+        "name": "canola oil",
+        "role": "fat",
+        "quantity": 1.2
+      },
+      {
+        "measure": "package",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.7
+      }
+    ],
+    "fitness": 552
+  }
+]
