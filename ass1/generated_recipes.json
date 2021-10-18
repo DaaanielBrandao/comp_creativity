@@ -1,729 +1,292 @@
 [
   {
-    "title": "eLYhSqxRYfIsXwKxiMHyfEYzqJc",
+    "title": "nodRcnXabkdvCEivmKIgkmU",
     "ingredients": [
       {
         "measure": "teaspoon",
-        "name": "brewers' yeast",
+        "name": "active dry yeast",
         "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "5-grain hot cereal mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
-        "quantity": 1.5
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "squares BAKER'S Semi-Sweet Chocolate",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "chocolate sandwich cookie crumb",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "instant coffee powder",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "vanilla almond bark",
-        "role": "flavor texture",
-        "quantity": 0.2
-      }
-    ],
-    "instructions": "\r\nAdd soybean oil, coarse sugar. Then add hartshorn, Make Ahead Cookie Mix, heavy cream. Finally, join the following flavour textures: minced fresh ginger root, container ricotta cheese, red food coloring, minced fresh ginger root, red food coloring, container ricotta cheese. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 438
-  },
-  {
-    "title": "DqgwKJHqoeOlEjUfhpVpFskPvfM",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "5-grain hot cereal mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
-        "quantity": 1.5
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "coconut extract",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "chocolate sandwich cookie crumb",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "squares BAKER'S Semi-Sweet Chocolate",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "instant coffee powder",
-        "role": "flavor texture",
-        "quantity": 0.4
-      }
-    ],
-    "instructions": "\r\nAdd cold unsalted butter, coarse sugar. Then add hartshorn, Make Ahead Cookie Mix, squares milk chocolate, squares milk chocolate. Finally, join the following flavour textures: cooked grated carrot, container ricotta cheese, minced fresh ginger root, container ricotta cheese, red food coloring. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 428
-  },
-  {
-    "title": "gnQSiWWIrJdSdclJAxXReQubvJ",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "all-purpose flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "cookie butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "So Delicious\u00ae Dairy Free Chocolate Coconutmilk Frozen Dessert",
-        "role": "binding agent",
-        "quantity": 11.1
-      },
-      {
-        "measure": "units",
-        "name": "light cream",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "almond milk",
-        "role": "binding agent",
-        "quantity": 48.0
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "teaspoons",
-        "name": "mayonnaise",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "tablespoon",
-        "name": "hazelnut extract or vanilla extract*",
-        "role": "flavor texture",
+        "name": "active dry yeast",
+        "role": "rising agent",
         "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "instant coffee powder",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "block of Mexican chocolate",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoon",
-        "name": "large jalapeno pepper",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "tablespoon",
-        "name": "fun size bars milk chocolate covered caramel and nougat candy",
-        "role": "binding agent",
+        "measure": "cups",
+        "name": "strawberry cake mix",
+        "role": "flour",
         "quantity": 1.0
-      }
-    ],
-    "instructions": "\r\nAdd butter pecan cake mix, green decorator sugar. Then add active dry yeast, hartshorn, chestnut flour, chestnut flour, egg white, caramel sundae syrup, chocolate covered creamy mint, caramel sundae syrup. Finally, join the following flavour textures: dry-roasted peanut, vinegar, chopped cooked bacon, colored miniature marshmallow, protein powder. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 428
-  },
-  {
-    "title": "aMkYpNYkXEZxtSdcMrzPmHqHOE",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "all-purpose flour",
+        "name": "spiced cake mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "cookie butter",
+        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "quarts",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
-        "quantity": 1.5
-      },
-      {
-        "measure": "units",
-        "name": "So Delicious\u00ae Dairy Free Chocolate Coconutmilk Frozen Dessert",
-        "role": "binding agent",
-        "quantity": 11.1
+        "measure": "cup",
+        "name": "melted shortening",
+        "role": "fat",
+        "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
+        "name": "EAGLE BRAND\u00ae Sweetened Condensed Milk",
+        "role": "binding agent",
         "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "container soy yogurt",
+        "role": "binding agent",
+        "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "chocolate sandwich cookie crumb",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "Stevia Extract In The Raw\u2122",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "toasted chopped pistachio",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoon",
-        "name": "hazelnut extract or vanilla extract*",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "dried cherry",
-        "role": "flavor texture",
+        "name": "sugar",
+        "role": "sugar",
         "quantity": 0.6
-      }
-    ],
-    "instructions": "\r\nAdd cold butter, red sugar crystal. Then add brewers' yeast, mesquite flour, buttermilk baking mix, agave syrup, egg white. Finally, join the following flavour textures: ground cinnamon, sliced almond, amaranth, ground cinnamon, sliced almond, vinegar. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 427
-  },
-  {
-    "title": "nwoFGsjVzVsgVjUJvZmujYtyQQ",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
       },
       {
-        "measure": "cups",
-        "name": "5-grain hot cereal mix",
-        "role": "flour",
-        "quantity": 1.0
+        "measure": "tablespoon",
+        "name": "golden brown sugar",
+        "role": "sugar",
+        "quantity": 0.6
       },
       {
         "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 0.5
+        "name": "colored sugar",
+        "role": "sugar",
+        "quantity": 0.3
       },
       {
-        "measure": "units",
-        "name": "So Delicious\u00ae Dairy Free Chocolate Coconutmilk Frozen Dessert",
-        "role": "binding agent",
-        "quantity": 11.1
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 0.1
       },
       {
-        "measure": "units",
-        "name": "light cream",
-        "role": "binding agent",
-        "quantity": 1.0
+        "measure": "teaspoon",
+        "name": "cooked chickpea",
+        "role": "flavor texture",
+        "quantity": 0.2
       },
       {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
+        "measure": "cups",
+        "name": "ground flaxseed",
+        "role": "flavor texture",
         "quantity": 1.5
       },
       {
-        "measure": "tablespoons",
-        "name": "almond milk",
-        "role": "binding agent",
-        "quantity": 48.0
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "sharp Cheddar cheese",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
         "measure": "teaspoons",
-        "name": "mayonnaise",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "large jalapeno pepper",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cup",
-        "name": "block of Mexican chocolate",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "finely grated chocolate bar",
+        "name": "ground cardamom",
         "role": "flavor texture",
         "quantity": 0.5
       },
       {
-        "measure": "scoop",
-        "name": "instant espresso coffee powder",
+        "measure": "units",
+        "name": "ground ginger",
         "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 12.0
       },
       {
-        "measure": "tablespoons",
-        "name": "vanilla creamy ready-to-spread frosting",
-        "role": "binding agent",
-        "quantity": 3.3
+        "measure": "units",
+        "name": "apple pie spice",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "units",
+        "name": "gluten-free vanilla extract",
+        "role": "flavor texture",
+        "quantity": 1.3
       }
     ],
-    "instructions": "\r\nAdd candy-coated peanut butter piece, granulated artificial sweetener. Then add gluten-free baking powder, sifted cake flour, egg white, drop fresh lemon juice, agave syrup, vanilla-flavored cream sherry. Finally, join the following flavour textures: vegan semi-sweet chocolate chip, matzo cake meal, red gel food color, sliced almond, sorghum, matzo cake meal, soda cracker, red gel food color. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 427
+    "instructions": "\r\nAdd chunky peanut butter, corn oil spread, firmly packed brown sugar, cinnamon sugar, SPLENDA\u00ae Sugar Blend, dark brown sugar. Then add gluten-free baking powder, hartshorn, King Arthur Almond Flour, cherry chip flavored cake mix, LAND O LAKES\u00ae Egg, milk, egg, milk. Finally, join the following flavour textures: chopped cashew, lavender flower, vanilla extract, raspberry jam, lavender flower, chopped pistachio nut, finely shredded carrot, lavender flower. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 143,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "high"
+    }
   },
   {
-    "title": "xtunrlmjgbHuRaJUpoJAFKWxyg",
+    "title": "AlpAjeakqVRcAxrVMguHUN",
     "ingredients": [
       {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
+        "measure": "teaspoons",
+        "name": "active dry yeast",
         "role": "rising agent",
-        "quantity": 0.4
+        "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "5-grain hot cereal mix",
+        "measure": "cup",
+        "name": "semolina flour",
         "role": "flour",
         "quantity": 1.0
       },
       {
+        "measure": "cups",
+        "name": "Duncan Hines\u00ae Moist Deluxe\u00ae Swiss Chocolate Cake Mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "devil's food chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.5
+      },
+      {
         "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
+        "name": "butter flavored shortening",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "quarts",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "orange juice",
-        "role": "binding agent",
-        "quantity": 0.8
-      },
-      {
         "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
+        "name": "softened butter",
+        "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "teaspoons",
-        "name": "squares semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.9
+        "measure": "cup",
+        "name": "EAGLE BRAND\u00ae Sweetened Condensed Milk",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "brick cream cheese",
+        "role": "binding agent",
+        "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "coconut extract",
-        "role": "flavor texture",
-        "quantity": 0.4
+        "name": "beaten egg",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "packets strawberries and cream instant oatmeal",
+        "role": "binding agent",
+        "quantity": 0.2
       },
       {
         "measure": "cups",
-        "name": "mint chocolate chip",
-        "role": "flavor texture",
-        "quantity": 2.0
+        "name": "raw sugar",
+        "role": "sugar",
+        "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "kiwi",
-        "role": "flavor texture",
+        "name": "white sugar for rolling",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "granulated white sugar",
+        "role": "sugar",
         "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "shredded Cheddar cheese",
+        "role": "flavor texture",
+        "quantity": 0.8
+      },
+      {
+        "measure": "teaspoon",
+        "name": "dairy-free mini chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.8
+      },
+      {
+        "measure": "tablespoons",
+        "name": "chocolate covered caramel candy",
+        "role": "flavor texture",
+        "quantity": 1.1
+      },
+      {
+        "measure": "ounces",
+        "name": "unsalted peanut",
+        "role": "flavor texture",
+        "quantity": 4.0
+      },
+      {
+        "measure": "units",
+        "name": "ground ginger",
+        "role": "flavor texture",
+        "quantity": 12.0
+      },
+      {
+        "measure": "cups",
+        "name": "squares chopped white chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened shredded coconut",
+        "role": "flavor texture",
+        "quantity": 0.7
       }
     ],
-    "instructions": "\r\nAdd buttery round cracker, powdered sugar, powdered sugar. Then add hartshorn, soy flour, crystallized sugar cane juice, orange juice, crystallized sugar cane juice. Finally, join the following flavour textures: vanilla wafer, seedless raspberry jam, colored miniature marshmallow, seedless raspberry jam, mayonnaise, vanilla wafer. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 427
+    "instructions": "\r\nAdd butter-flavored shortening, anise oil, granulated artificial sweetener, brown sugar replacement, packed dark brown sugar, brown sugar replacement. Then add hartshorn, cake flour, pineapple flavored cake mix, yellow cake mix, brick cream cheese, sour cream, fresh lemon juice, container soy yogurt. Finally, join the following flavour textures: crushed pistachio, black raspberry jam, apricot jam, instant coffee powder, apricot jam, coffee-flavored liqueur, raspberry jam. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 143,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
   },
   {
-    "title": "mPHqSYQpZzbdoxeWelclzhfSSe",
+    "title": "tHPewanINUCinubKThHrdb",
     "ingredients": [
       {
         "measure": "teaspoon",
         "name": "hartshorn",
         "role": "rising agent",
-        "quantity": 0.5
+        "quantity": 0.3
       },
       {
         "measure": "teaspoon",
-        "name": "brewers' yeast",
+        "name": "low sodium baking powder",
         "role": "rising agent",
         "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "5-grain hot cereal mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
-        "quantity": 1.5
-      },
-      {
-        "measure": "cup",
-        "name": "sweetened condensed milk",
-        "role": "binding agent",
-        "quantity": 0.1
-      },
-      {
-        "measure": "tablespoons",
-        "name": "cream cheese at room temperature",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "finely grated chocolate bar",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "chopped dried fig",
-        "role": "flavor texture",
-        "quantity": 1.1
       },
       {
         "measure": "package",
-        "name": "large marshmallow",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "coarsely chopped walnut",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "Stevia Extract In The Raw\u2122",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "toasted chopped pistachio",
-        "role": "flavor texture",
-        "quantity": 0.2
-      }
-    ],
-    "instructions": "\r\nAdd buttery round cracker, granulated no-calorie sugar substitute. Then add gluten-free baking powder, hartshorn, soy flour, agave syrup, corn syrup, nonfat plain yogurt. Finally, join the following flavour textures: unsweetened applesauce, chopped dried fig, large marshmallow, coarsely chopped walnut, ready-to-spread vanilla frosting, port wine. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 427
-  },
-  {
-    "title": "qadAyvEMrZbtnEehOfPzMkWzic",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
+        "name": "dry pancake mix",
+        "role": "flour",
+        "quantity": 0.3
       },
       {
         "measure": "cups",
-        "name": "5-grain hot cereal mix",
+        "name": "oat flour",
         "role": "flour",
         "quantity": 1.0
       },
       {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
         "measure": "tablespoon",
-        "name": "So Delicious\u00ae Dairy Free Chocolate Coconutmilk Frozen Dessert",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
-        "quantity": 1.5
-      },
-      {
-        "measure": "quarts",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "toasted chopped pistachio",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoons",
-        "name": "squares semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.9
-      },
-      {
-        "measure": "cup",
-        "name": "instant coffee powder",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "kiwi",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "coconut extract",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "units",
-        "name": "tablets Mexican chocolate",
-        "role": "flavor texture",
-        "quantity": 1.5
-      }
-    ],
-    "instructions": "\r\nAdd buttery round cracker, sifted confectioners' sugar. Then add hartshorn, soy flour, powdered milk, nonfat plain yogurt, crystallized sugar cane juice. Finally, join the following flavour textures: port wine, vanilla wafer, cornflakes cereal, mayonnaise, seedless raspberry jam. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 427
-  },
-  {
-    "title": "PRrdknUKYKNzUSZLQzGMDJlQqh",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "5-grain hot cereal mix",
+        "name": "devil's food chocolate cake mix",
         "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
         "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "drop fresh lemon juice",
-        "role": "binding agent",
-        "quantity": 1.5
-      },
-      {
-        "measure": "quarts",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cup",
-        "name": "light brown sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "instant coffee powder",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "chocolate sandwich cookie crumb",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "block of Mexican chocolate",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoons",
-        "name": "squares semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.9
-      },
-      {
-        "measure": "cup",
-        "name": "Stevia Extract In The Raw\u2122",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "toasted chopped pistachio",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoon",
-        "name": "So Delicious\u00ae Dairy Free Chocolate Coconutmilk Frozen Dessert",
-        "role": "binding agent",
-        "quantity": 0.3
-      }
-    ],
-    "instructions": "\r\nAdd candy-coated peanut butter piece, green decorator sugar. Then add active dry yeast, dry pancake mix, bars milk chocolate candy, sour milk. Finally, join the following flavour textures: chopped cooked bacon, finely chopped chipotle pepper in adobo sauce, candy-coated chocolate peanut, squares semisweet chocolate, coffee, amaranth. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 426
-  },
-  {
-    "title": "PnADgIYeATMFAilvyUKRNHpiuM",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
       },
       {
         "measure": "cups",
@@ -732,67 +295,1120 @@
         "quantity": 1.0
       },
       {
-        "measure": "cup",
-        "name": "cookie butter",
+        "measure": "cups",
+        "name": "vegetable shortening",
         "role": "fat",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "hot milk",
+        "name": "instant butterscotch pudding mix",
+        "role": "fat",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "packets strawberries and cream instant oatmeal",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "brick cream cheese",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "water",
         "role": "binding agent",
         "quantity": 0.4
       },
       {
-        "measure": "quarts",
-        "name": "egg",
+        "measure": "cup",
+        "name": "eggnog",
         "role": "binding agent",
-        "quantity": 2.0
+        "quantity": 0.1
       },
       {
-        "measure": "cup",
-        "name": "light brown sugar",
+        "measure": "cups",
+        "name": "ice-cold water",
+        "role": "binding agent",
+        "quantity": 0.9
+      },
+      {
+        "measure": "cups",
+        "name": "granulated artificial sweetener",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "tablespoon",
-        "name": "hazelnut extract or vanilla extract*",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "teaspoons",
-        "name": "squares semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.9
+        "name": "golden brown sugar",
+        "role": "sugar",
+        "quantity": 0.6
       },
       {
         "measure": "cup",
-        "name": "toasted chopped pistachio",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "white sugar for rolling",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "ounces",
+        "name": "unsalted peanut",
+        "role": "flavor texture",
+        "quantity": 4.0
+      },
+      {
+        "measure": "cups",
+        "name": "canned pumpkin",
+        "role": "flavor texture",
+        "quantity": 1.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "cooked chickpea",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
-        "measure": "cups",
-        "name": "chocolate sandwich cookie crumb",
+        "measure": "units",
+        "name": "Bartlett pears - peeled",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "apple pie spice",
         "role": "flavor texture",
         "quantity": 0.7
       },
       {
         "measure": "cup",
-        "name": "dried cherry",
+        "name": "candied citron peel",
         "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoon",
+        "name": "finely shredded orange peel",
+        "role": "flavor texture",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "\r\nAdd butter pecan cake mix, grapeseed oil, grapeseed oil, chunky peanut butter, sugar-free strawberry Jell-O\u00ae mix, cinnamon sugar, SPLENDA\u00ae Brown Sugar Blend, sugar. Then add hartshorn, baking soda, German chocolate cake mix, all-purpose flour, yellow cake mix, whole wheat pastry flour, bar milk chocolate candy, LAND O LAKES\u00ae Egg, beaten egg, lemon juice, evaporated milk. Finally, join the following flavour textures: gummi worm, crisp rice cereal, chopped cashew, large orange, chopped pistachio nut, gummi worm, raisin paste, green tea powder. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 141,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "low"
+    }
+  },
+  {
+    "title": "muiZByvpasLAzodmbuZNyfI",
+    "ingredients": [
+      {
+        "measure": "teaspoons",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "semolina flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "devil's food chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "oat flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "butter or margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "vegetable shortening",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "hot water",
+        "role": "binding agent",
+        "quantity": 1.3
+      },
+      {
+        "measure": "cups",
+        "name": "dry milk powder",
+        "role": "binding agent",
+        "quantity": 0.9
+      },
+      {
+        "measure": "units",
+        "name": "brick cream cheese",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "white sugar for rolling",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "colored sugar",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "ground ginger",
+        "role": "flavor texture",
+        "quantity": 12.0
+      },
+      {
+        "measure": "cup",
+        "name": "squares semi-sweet chocolate",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "squares chopped white chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "finely ground coffee bean",
+        "role": "flavor texture",
+        "quantity": 8.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "vanilla extract",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "cream cheese at room temperature",
+        "role": "binding agent",
+        "quantity": 0.2
+      }
+    ],
+    "instructions": "\r\nAdd smooth peanut butter, soybean oil, coconut palm sugar, dark brown sugar, light brown sugar, coconut palm sugar. Then add hartshorn, gluten-free baking powder, cake flour, yellow cake mix, all-purpose flour, squares milk chocolate, egg white at room temperature, egg white at room temperature, caramel sundae syrup. Finally, join the following flavour textures: coffee-flavored liqueur, apricot jam, raspberry jam, coffee-flavored liqueur, hemp seed heart, vanilla extract. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 141,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "low"
+    }
+  },
+  {
+    "title": "OpsjmTKnAYICEtmuKqYRyR",
+    "ingredients": [
+      {
+        "measure": "teaspoon",
+        "name": "hartshorn",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "low sodium baking powder",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "oat flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "dry pancake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "tablespoon",
+        "name": "devil's food chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "butter or margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "brick cream cheese",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "dry milk powder",
+        "role": "binding agent",
+        "quantity": 0.9
+      },
+      {
+        "measure": "cup",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "packets strawberries and cream instant oatmeal",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "white sugar for rolling",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "tablespoon",
+        "name": "golden brown sugar",
+        "role": "sugar",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cups",
+        "name": "sugar",
+        "role": "sugar",
         "quantity": 0.6
       },
       {
         "measure": "cup",
-        "name": "Stevia Extract In The Raw\u2122",
+        "name": "ground walnut",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "canned pumpkin",
+        "role": "flavor texture",
+        "quantity": 1.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "cooked chickpea",
         "role": "flavor texture",
         "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "squares semi-sweet chocolate",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "Bartlett pears - peeled",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "strawberry puree",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "ground flaxseed",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "teaspoons",
+        "name": "ground cardamom",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "tart apple",
+        "role": "flavor texture",
+        "quantity": 2.1
       }
     ],
-    "instructions": "\r\nAdd vegan margarine, SPLENDA\u00ae Sugar Blend. Then add hartshorn, sweet rice flour, corn syrup, chocolate covered creamy mint, crystallized sugar cane juice. Finally, join the following flavour textures: anise extract, bag chocolate chip, port wine, squares bittersweet chocolate, ground pecan, natural food coloring. \r\nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 426
+    "instructions": "\r\nAdd margarine or butter, cold unsalted butter, cold unsalted butter, brown sugar replacement, white sugar, white sugar, green sugar crystal. Then add hartshorn, active dry yeast, all-purpose flour, pie crust mix, yellow cake mix, pie crust mix, sour cream, egg white at room temperature, milk, bar milk chocolate candy. Finally, join the following flavour textures: frozen whipped topping, crisp rice cereal, chopped cashew, apricot jam, large orange, port wine, lavender flower, vanilla extract. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 141,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "title": "HNTFFTZsUgLlfefAYoHKzE",
+    "ingredients": [
+      {
+        "measure": "teaspoons",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "hartshorn",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "moist yellow cake mix",
+        "role": "flour",
+        "quantity": 0.7
+      },
+      {
+        "measure": "tablespoon",
+        "name": "devil's food chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.5
+      },
+      {
+        "measure": "package",
+        "name": "dry pancake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "semolina flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "chunky peanut butter",
+        "role": "fat",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "chunky peanut butter",
+        "role": "fat",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "instant butterscotch pudding mix",
+        "role": "fat",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "EAGLE BRAND\u00ae Sweetened Condensed Milk",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "milk chocolate candy kiss",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
+        "measure": "units",
+        "name": "packets strawberries and cream instant oatmeal",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "container soy yogurt",
+        "role": "binding agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "sugar",
+        "role": "sugar",
+        "quantity": 0.6
+      },
+      {
+        "measure": "tablespoon",
+        "name": "golden brown sugar",
+        "role": "sugar",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "colored sugar",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "strawberry puree",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "gluten-free rolled oat",
+        "role": "flavor texture",
+        "quantity": 7.3
+      },
+      {
+        "measure": "teaspoons",
+        "name": "ground cardamom",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "rum flavored extract",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "units",
+        "name": "roasted and salted sunflower seed",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "pitted chopped date",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "squares chopped white chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      }
+    ],
+    "instructions": "\r\nAdd golden vegetable shortening, drops peppermint oil, peanut butter, demerara sugar, white sugar, demerara sugar, red sugar crystal. Then add hartshorn, quick rise yeast, potato flour, yellow cake mix, pie crust mix, cake flour, yellow cake mix, brick cream cheese, plain nonfat yogurt, container soy yogurt, nonfat dry milk powder, plain nonfat yogurt. Finally, join the following flavour textures: port wine, old-fashioned oat, solid pack pumpkin puree, vanilla extract, Bartlett pears - peeled, cacao nib, diced, raspberry jam, vanilla extract. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 141,
+    "properties": {
+      "crunchiness": "chewey",
+      "spread": "low"
+    }
+  },
+  {
+    "title": "covALRNCCgHaijJEUKlkrMC",
+    "ingredients": [
+      {
+        "measure": "teaspoons",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "So Delicious\u00ae Dairy Free Gluten Free Cookie Dough Frozen Dessert",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "Duncan Hines\u00ae Red Velvet Cake Mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "softened butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "milk chocolate candy kiss",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
+        "measure": "units",
+        "name": "brick cream cheese",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "drop fresh lemon juice",
+        "role": "binding agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "granulated artificial sweetener",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "Sugar In The Raw\u00ae",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "colored sugar",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "chopped fresh ginger root",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "over-ripe banana",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "chocolate covered caramel candy",
+        "role": "flavor texture",
+        "quantity": 1.1
+      },
+      {
+        "measure": "cup",
+        "name": "granola",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "package",
+        "name": "roasted and salted sunflower seed",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "ground ginger",
+        "role": "flavor texture",
+        "quantity": 12.0
+      }
+    ],
+    "instructions": "\r\nAdd vegetable shortening, butter, packed light brown sugar, sifted confectioners' sugar, sifted confectioners' sugar, light brown sugar. Then add hartshorn, baking powder, millet flour, semolina flour, milk, plain nonfat yogurt, reduced-fat creamy peanut butter, real maple syrup. Finally, join the following flavour textures: semisweet chocolate chip, rosemary flavored chocolate, apricot jam, crushed ice, semisweet chocolate, coffee-flavored liqueur. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 140,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "high"
+    }
+  },
+  {
+    "title": "XLMCwaflhriKRkrAtsjNnGv",
+    "ingredients": [
+      {
+        "measure": "teaspoon",
+        "name": "hartshorn",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoons",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.9
+      },
+      {
+        "measure": "cup",
+        "name": "non-instant mocha chocolate pudding mix",
+        "role": "flour",
+        "quantity": 0.5
+      },
+      {
+        "measure": "package",
+        "name": "dry pancake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "chocolate chip cookie dough",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "pieces NESTLE\u00ae BUTTERFINGER\u00ae Bites Candy",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "peanut oil",
+        "role": "fat",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "softened butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "milk chocolate candy kiss",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
+        "measure": "units",
+        "name": "instant milk chocolate drink mix",
+        "role": "binding agent",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cup",
+        "name": "eggnog",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "red colored sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "superfine sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "colored sugar for decoration",
+        "role": "sugar",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.2
+      },
+      {
+        "measure": "ounces",
+        "name": "unsalted peanut",
+        "role": "flavor texture",
+        "quantity": 4.0
+      },
+      {
+        "measure": "units",
+        "name": "ground ginger",
+        "role": "flavor texture",
+        "quantity": 12.0
+      },
+      {
+        "measure": "units",
+        "name": "roasted and salted sunflower seed",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "teaspoon",
+        "name": "sourball hard candy",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "dark chocolate",
+        "role": "flavor texture",
+        "quantity": 0.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "chocolate covered caramel candy",
+        "role": "flavor texture",
+        "quantity": 1.1
+      },
+      {
+        "measure": "cup",
+        "name": "ground walnut",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "gluten-free rolled oat",
+        "role": "flavor texture",
+        "quantity": 7.3
+      },
+      {
+        "measure": "cups",
+        "name": "egg yolk",
+        "role": "binding agent",
+        "quantity": 4.0
+      }
+    ],
+    "instructions": "\r\nAdd smooth peanut butter, Becel\u00ae Buttery Taste or Original Margarine*, vegetable shortening, red colored sugar, golden brown sugar, confectioner's sugar, confectioners' sugar for decoration. Then add hartshorn, baking soda, chocolate chip cookie dough, pie crust mix, Duncan Hines\u00ae Red Velvet Cake Mix, milk, plain nonfat yogurt, beaten egg, freshly squeezed lime juice. Finally, join the following flavour textures: instant coffee powder, coffee-flavored liqueur, cacao nib, grated lemon zest, chopped pistachio, coffee-flavored liqueur, apricot jam, frozen whipped topping, square bittersweet chocolate. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 139,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "title": "QnXJzgnccFsBBhLKswfAeEX",
+    "ingredients": [
+      {
+        "measure": "teaspoons",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "chocolate chip cookie dough",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "Duncan Hines\u00ae Red Velvet Cake Mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "vegetable shortening",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "instant butterscotch pudding mix",
+        "role": "fat",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "butter or margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoons",
+        "name": "plain nonfat yogurt",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "container soy yogurt",
+        "role": "binding agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "units",
+        "name": "packets strawberries and cream instant oatmeal",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "water",
+        "role": "binding agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "raw sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "tablespoons",
+        "name": "firmly packed brown sugar",
+        "role": "sugar",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "Sugar In The Raw\u00ae",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "superfine sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "gluten-free rolled oat",
+        "role": "flavor texture",
+        "quantity": 7.3
+      },
+      {
+        "measure": "units",
+        "name": "roasted and salted sunflower seed",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "package",
+        "name": "roasted and salted sunflower seed",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "lime",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "whole bran cereal",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "ground ginger",
+        "role": "flavor texture",
+        "quantity": 12.0
+      },
+      {
+        "measure": "cup",
+        "name": "coconut",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "jars",
+        "name": "shredded pumpkin",
+        "role": "flavor texture",
+        "quantity": 0.9
+      }
+    ],
+    "instructions": "\r\nAdd soybean oil, grapeseed oil, smooth peanut butter, granulated artificial sweetener, packed brown sugar, sifted confectioners' sugar, white sugar for rolling. Then add hartshorn, Duncan Hines\u00ae Moist Deluxe\u00ae Swiss Chocolate Cake Mix, semolina flour, semolina flour, vanilla-flavored cream sherry, milk, drop fresh lemon juice, container soy yogurt, beaten egg. Finally, join the following flavour textures: Spice Islands\u00ae Pure Vanilla Extract, cacao nib, semisweet chocolate, kiwi, chopped fresh strawberry, coffee-flavored liqueur, cottage cheese. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 138,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "title": "WmWzelYTJRqBkHjjlWwVYv",
+    "ingredients": [
+      {
+        "measure": "teaspoon",
+        "name": "hartshorn",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "all-purpose flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "devil's food chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "strawberry cake mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "vegetable shortening",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "instant butterscotch pudding mix",
+        "role": "fat",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "packets strawberries and cream instant oatmeal",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "ice-cold water",
+        "role": "binding agent",
+        "quantity": 0.9
+      },
+      {
+        "measure": "units",
+        "name": "brick cream cheese",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "container soy yogurt",
+        "role": "binding agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "granulated artificial sweetener",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoon",
+        "name": "golden brown sugar",
+        "role": "sugar",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "sugar",
+        "role": "sugar",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "cooked chickpea",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "candied citron peel",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "canned pumpkin",
+        "role": "flavor texture",
+        "quantity": 1.6
+      },
+      {
+        "measure": "units",
+        "name": "apple pie spice",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "teaspoons",
+        "name": "ground cardamom",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "gluten-free vanilla extract",
+        "role": "flavor texture",
+        "quantity": 1.3
+      }
+    ],
+    "instructions": "\r\nAdd soybean oil, grapeseed oil, chunky peanut butter, packed light brown sugar, white sugar, dark brown sugar, firmly packed brown sugar. Then add hartshorn, hartshorn, flour, yellow cake mix, King Arthur Almond Flour, bar milk chocolate candy, evaporated milk, caramel sundae syrup, drop fresh lemon juice, milk. Finally, join the following flavour textures: chopped cashew, raisin paste, crisp rice cereal, chopped pistachio nut, vanilla extract, finely shredded carrot, chopped pistachio nut. \r\nPut the dough in the oven from 1 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 138,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
   }
 ]
