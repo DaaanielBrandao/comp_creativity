@@ -1,202 +1,310 @@
 [
   {
-    "title": "BOQRorhHrfoWHoYPEVpavK",
+    "title": "aLvCMoLAEFxckRhjZjMRFnRy",
     "ingredients": [
       {
         "measure": "cups",
-        "name": "oat flour",
+        "name": "5-grain hot cereal mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "active dry yeast",
+        "name": "gluten-free baking powder",
         "role": "rising agent",
         "quantity": 0.1
       },
       {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
+        "measure": "tablespoons",
+        "name": "buttermilk baking mix",
+        "role": "binding agent",
+        "quantity": 0.8
+      },
+      {
+        "measure": "units",
+        "name": "crystallized sugar cane juice",
+        "role": "binding agent",
         "quantity": 0.7
       },
       {
         "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "name": "hot milk",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 0.7
       },
       {
         "measure": "cup",
-        "name": "red sugar sprinkle",
+        "name": "fructose",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "European cookie spread",
+        "name": "coarsely chopped nut",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 0.5
       },
       {
-        "measure": "tablespoons",
-        "name": "semisweet chocolate chip",
+        "measure": "pinch",
+        "name": "black and orange candy sprinkle",
         "role": "flavor texture",
-        "quantity": 2.0
+        "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "coarse kosher salt",
+        "name": "drops almond extract",
         "role": "flavor texture",
         "quantity": 0.1
       },
       {
         "measure": "cup",
-        "name": "caramel bit",
+        "name": "peppermint patty",
         "role": "flavor texture",
-        "quantity": 0.5
+        "quantity": 0.3
+      },
+      {
+        "measure": "tablespoon",
+        "name": "prepared mincemeat pie filling",
+        "role": "flavor texture",
+        "quantity": 0.4
       },
       {
         "measure": "teaspoon",
-        "name": "bars white chocolate",
+        "name": "root beer extract",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 1.0
       },
       {
-        "measure": "cup",
-        "name": "lard",
+        "measure": "cups",
+        "name": "olive oil",
         "role": "fat",
         "quantity": 0.5
       }
     ],
-    "fitness": 441
+    "fitness": 442
   },
   {
-    "title": "SZOhsrWePHFVaORCOGFNrG",
+    "title": "IVPbJGdTjDSgReinfCluoMXT",
     "ingredients": [
       {
         "measure": "cups",
-        "name": "chocolate chip cookie dough",
+        "name": "5-grain hot cereal mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "low sodium baking powder",
+        "name": "brewers' yeast",
         "role": "rising agent",
-        "quantity": 0.4
+        "quantity": 0.7
       },
       {
-        "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "measure": "teaspoons",
+        "name": "Jif\u00ae Creamy Peanut Butter",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 0.7
       },
       {
-        "measure": "cups",
-        "name": "Sugar In The Raw\u00ae",
+        "measure": "teaspoons",
+        "name": "vanilla creamy ready-to-spread frosting",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "cup",
+        "name": "fructose",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "teaspoon",
-        "name": "grated carrot",
+        "measure": "cup",
+        "name": "candied cherry",
         "role": "flavor texture",
-        "quantity": 0.5
+        "quantity": 0.1
       },
       {
-        "measure": "package",
-        "name": "prepared chocolate frosting",
+        "measure": "pinch",
+        "name": "black and orange candy sprinkle",
         "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoons",
-        "name": "bag semi-sweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.5
+        "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "sweetened shredded coconut",
+        "name": "square unsweetened chocolate",
         "role": "flavor texture",
-        "quantity": 1.3
+        "quantity": 1.5
+      },
+      {
+        "measure": "cup",
+        "name": "dark cocoa powder",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "small",
+        "name": "almond meal",
+        "role": "flavor texture",
+        "quantity": 16.0
+      },
+      {
+        "measure": "cups",
+        "name": "olive oil",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoon",
+        "name": "vanilla flavored confectioners' coating",
+        "role": "flavor texture",
+        "quantity": 0.7
+      }
+    ],
+    "fitness": 442
+  },
+  {
+    "title": "UGvmMeyKzlCtwnkvfTbwOKsiX",
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "potato flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "gluten-free baking powder",
+        "role": "rising agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "whipped cream",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "red colored sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cubes beef bouillon cube",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "teaspoons",
+        "name": "raw whole almond",
+        "role": "flavor texture",
+        "quantity": 1.0
       },
       {
         "measure": "teaspoon",
         "name": "chopped raisin",
         "role": "flavor texture",
-        "quantity": 0.5
+        "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "lard",
+        "name": "mini chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "large",
+        "name": "Bartlett pears - peeled",
+        "role": "flavor texture",
+        "quantity": 38.9
+      },
+      {
+        "measure": "cup",
+        "name": "dairy-free mini chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "reduced fat margarine",
         "role": "fat",
         "quantity": 0.5
       }
     ],
-    "fitness": 441
+    "fitness": 440
   },
   {
-    "title": "hMvOkopHRhNSginJKJLjrQ",
+    "title": "pnUZrCgFkMoLnjnNhxMtyptj",
     "ingredients": [
       {
         "measure": "cups",
-        "name": "chocolate chip cookie dough",
+        "name": "potato flour",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "active dry yeast",
+        "name": "gluten-free baking powder",
         "role": "rising agent",
         "quantity": 0.1
       },
       {
-        "measure": "teaspoon",
-        "name": "low sodium baking powder",
-        "role": "rising agent",
-        "quantity": 0.4
+        "measure": "teaspoons",
+        "name": "Jif\u00ae Creamy Peanut Butter",
+        "role": "binding agent",
+        "quantity": 0.7
       },
       {
         "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "name": "hot milk",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 0.7
       },
       {
-        "measure": "cups",
-        "name": "Sugar In The Raw\u00ae",
+        "measure": "units",
+        "name": "LAND O LAKES\u00ae Egg",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "red colored sugar",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "tablespoons",
-        "name": "semisweet chocolate chip",
+        "measure": "cups",
+        "name": "McCormick\u00ae Nutmeg",
         "role": "flavor texture",
-        "quantity": 2.0
+        "quantity": 0.8
       },
       {
-        "measure": "teaspoon",
-        "name": "bars white chocolate",
+        "measure": "tablespoon",
+        "name": "prepared mincemeat pie filling",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 0.4
       },
       {
-        "measure": "teaspoon",
-        "name": "finely crumbled vanilla wafer",
+        "measure": "large",
+        "name": "Bartlett pears - peeled",
+        "role": "flavor texture",
+        "quantity": 38.9
+      },
+      {
+        "measure": "cup",
+        "name": "cubes beef bouillon cube",
         "role": "flavor texture",
         "quantity": 0.1
       },
       {
-        "measure": "packages",
-        "name": "diced apple without peel",
+        "measure": "teaspoon",
+        "name": "chopped raisin",
         "role": "flavor texture",
-        "quantity": 3.0
+        "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "lard",
+        "name": "reduced fat margarine",
         "role": "fat",
         "quantity": 0.5
       }
@@ -204,149 +312,71 @@
     "fitness": 439
   },
   {
-    "title": "NOFKXrlHTPBlxCCkWgXOXP",
+    "title": "hTFTgjnhaFMUZrInVmMmsinX",
     "ingredients": [
       {
         "measure": "cups",
-        "name": "oat flour",
+        "name": "potato flour",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "low sodium baking powder",
+        "name": "gluten-free baking powder",
         "role": "rising agent",
-        "quantity": 0.4
+        "quantity": 0.1
       },
       {
-        "measure": "tablespoons",
-        "name": "skim milk or water",
+        "measure": "units",
+        "name": "crystallized sugar cane juice",
         "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
-        "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 0.7
       },
       {
         "measure": "cup",
-        "name": "red sugar sprinkle",
+        "name": "red colored sugar",
         "role": "sugar",
         "quantity": 0.5
+      },
+      {
+        "measure": "large",
+        "name": "Bartlett pears - peeled",
+        "role": "flavor texture",
+        "quantity": 38.9
+      },
+      {
+        "measure": "cup",
+        "name": "candied cherry",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "ounces",
+        "name": "dried sour cherry",
+        "role": "flavor texture",
+        "quantity": 2.7
+      },
+      {
+        "measure": "cup",
+        "name": "coffee",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "very ripe persimmon",
+        "role": "flavor texture",
+        "quantity": 0.3
       },
       {
         "measure": "teaspoon",
         "name": "chopped raisin",
         "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "tablespoons",
-        "name": "semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 2.0
+        "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "coarse kosher salt",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoon",
-        "name": "prepared frosting",
-        "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "teaspoon",
-        "name": "grated carrot",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "lard",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "teaspoon",
-        "name": "whole orange",
-        "role": "flavor texture",
-        "quantity": 0.1
-      }
-    ],
-    "fitness": 438
-  },
-  {
-    "title": "pNwzYkwKqPnYBmWxnkUYUD",
-    "ingredients": [
-      {
-        "measure": "cups",
-        "name": "oat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "quick rise yeast",
-        "role": "rising agent",
-        "quantity": 0.5
-      },
-      {
-        "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
-        "role": "binding agent",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "teaspoon",
-        "name": "prepared frosting",
-        "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "teaspoon",
-        "name": "grated carrot",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "blueberry",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
-        "measure": "package",
-        "name": "prepared chocolate frosting",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "pine nut",
-        "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "dried fig",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cup",
-        "name": "lard",
+        "name": "reduced fat margarine",
         "role": "fat",
         "quantity": 0.5
       }
@@ -354,71 +384,71 @@
     "fitness": 437
   },
   {
-    "title": "yBceZlLvaTCzZoCkYQFXzh",
+    "title": "eUgDmDwyCBLiKVFflZuxwqZP",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "chocolate chip cookie dough",
+        "measure": "cup",
+        "name": "pie crust mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "quick rise yeast",
+        "name": "gluten-free baking powder",
         "role": "rising agent",
-        "quantity": 0.5
+        "quantity": 0.1
       },
       {
-        "measure": "can",
-        "name": "drop fresh lemon juice",
+        "measure": "teaspoons",
+        "name": "squares milk chocolate",
         "role": "binding agent",
-        "quantity": 0.3
+        "quantity": 1.8
+      },
+      {
+        "measure": "units",
+        "name": "non-fat plain yogurt",
+        "role": "binding agent",
+        "quantity": 0.4
       },
       {
         "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "name": "whole milk",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 1.2
       },
       {
-        "measure": "cups",
-        "name": "Sugar In The Raw\u00ae",
+        "measure": "cup",
+        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "packages",
-        "name": "diced apple without peel",
-        "role": "flavor texture",
-        "quantity": 3.0
-      },
-      {
-        "measure": "cup",
-        "name": "pouch cooked and cooled UNCLE BEN'S\u00ae Ready Rice\u00ae Basmati",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "blueberry",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
         "measure": "teaspoon",
-        "name": "bars white chocolate",
+        "name": "chopped raisin",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
-        "measure": "package",
-        "name": "prepared chocolate frosting",
+        "measure": "cup",
+        "name": "coffee",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoons",
+        "name": "vanilla frosting",
         "role": "flavor texture",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "lard",
+        "name": "chopped macadamia nut",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "instant butterscotch pudding mix",
         "role": "fat",
         "quantity": 0.5
       }
@@ -426,321 +456,297 @@
     "fitness": 437
   },
   {
-    "title": "ZbgogMvCPFhpaLerrWqhKf",
+    "title": "ctQnHYEuvBkkdTpsVzHMpLSv",
     "ingredients": [
       {
         "measure": "cups",
-        "name": "chocolate chip cookie dough",
+        "name": "potato flour",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "baking powder",
+        "name": "gluten-free baking powder",
         "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "teaspoon",
-        "name": "low sodium baking powder",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "units",
-        "name": "cold water",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "units",
-        "name": "egg white substitute",
-        "role": "binding agent",
-        "quantity": 1.1
-      },
-      {
-        "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
-        "role": "binding agent",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cups",
-        "name": "Sugar In The Raw\u00ae",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "teaspoon",
-        "name": "chopped raw pecan",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "bars white chocolate",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "coarse kosher salt",
-        "role": "flavor texture",
         "quantity": 0.1
       },
       {
-        "measure": "teaspoon",
-        "name": "grated carrot",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "sweetened shredded coconut",
-        "role": "flavor texture",
-        "quantity": 1.3
-      },
-      {
-        "measure": "cup",
-        "name": "lard",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.6
-      }
-    ],
-    "fitness": 436
-  },
-  {
-    "title": "rJsJnxtFHKqDfkltjihFeD",
-    "ingredients": [
-      {
-        "measure": "cups",
-        "name": "chocolate chip cookie dough",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "low sodium baking powder",
-        "role": "rising agent",
-        "quantity": 0.4
+        "measure": "units",
+        "name": "chocolate sweetened condensed milk",
+        "role": "binding agent",
+        "quantity": 0.7
       },
       {
         "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "name": "hot milk",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 0.7
       },
       {
-        "measure": "cups",
-        "name": "Sugar In The Raw\u00ae",
+        "measure": "cup",
+        "name": "red colored sugar",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "semisweet chocolate",
+        "name": "coffee",
         "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "tablespoons",
-        "name": "cashew half",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "coarse kosher salt",
+        "name": "dark cocoa powder",
         "role": "flavor texture",
-        "quantity": 0.1
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "sweetened dried cranberry",
+        "role": "flavor texture",
+        "quantity": 0.5
       },
       {
         "measure": "teaspoon",
         "name": "chopped raisin",
         "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "sweetened shredded coconut",
-        "role": "flavor texture",
-        "quantity": 1.3
+        "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "lard",
+        "name": "reduced fat margarine",
         "role": "fat",
         "quantity": 0.5
       }
     ],
-    "fitness": 436
+    "fitness": 437
   },
   {
-    "title": "FEgGGPqYwSkSCkNGJiajhx",
+    "title": "RpzGcjNCFcUVlxyXBQpuTMRS",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "oat flour",
+        "measure": "cup",
+        "name": "non-instant mocha chocolate pudding mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "quick rise yeast",
+        "name": "brewers' yeast",
         "role": "rising agent",
-        "quantity": 0.5
+        "quantity": 0.7
       },
       {
-        "measure": "can",
-        "name": "drop fresh lemon juice",
+        "measure": "units",
+        "name": "non-fat plain yogurt",
         "role": "binding agent",
-        "quantity": 0.3
+        "quantity": 0.4
       },
       {
-        "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "measure": "units",
+        "name": "plain nonfat yogurt",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 0.7
       },
       {
         "measure": "cup",
-        "name": "red sugar sprinkle",
+        "name": "demerara sugar",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "apple",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cup",
-        "name": "pouch cooked and cooled UNCLE BEN'S\u00ae Ready Rice\u00ae Basmati",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "tablespoons",
-        "name": "semisweet chocolate chip",
+        "measure": "ounces",
+        "name": "kosher salt",
         "role": "flavor texture",
         "quantity": 2.0
       },
       {
-        "measure": "teaspoon",
-        "name": "grated carrot",
+        "measure": "cups",
+        "name": "chopped salted peanut",
         "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "package",
-        "name": "prepared chocolate frosting",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "pine nut",
-        "role": "flavor texture",
-        "quantity": 0.6
+        "quantity": 1.5
       },
       {
         "measure": "cup",
-        "name": "lard",
-        "role": "fat",
-        "quantity": 0.5
+        "name": "finely ground almond",
+        "role": "flavor texture",
+        "quantity": 0.4
       },
       {
-        "measure": "tablespoons",
-        "name": "Karo\u00ae Dark Corn Syrup",
-        "role": "binding agent",
-        "quantity": 0.7
+        "measure": "cup",
+        "name": "candied cherry",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "ounces",
+        "name": "dried sour cherry",
+        "role": "flavor texture",
+        "quantity": 2.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "chopped raisin",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
       }
     ],
-    "fitness": 436
+    "fitness": 437
   },
   {
-    "title": "JdnTLtiJhkJwIoDaqMWArF",
+    "title": "AIgYMdWTiDJlrsMkZbebfiGi",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "chocolate chip cookie dough",
+        "measure": "cup",
+        "name": "pie crust mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "quick rise yeast",
+        "name": "gluten-free baking powder",
         "role": "rising agent",
-        "quantity": 0.5
+        "quantity": 0.1
       },
       {
-        "measure": "tablespoons",
-        "name": "PHILADELPHIA Cream Cheese",
+        "measure": "units",
+        "name": "whipped cream",
         "role": "binding agent",
-        "quantity": 0.8
+        "quantity": 1.0
       },
       {
-        "measure": "tablespoons",
-        "name": "skim milk or water",
+        "measure": "can",
+        "name": "soy milk",
         "role": "binding agent",
-        "quantity": 4.0
+        "quantity": 0.3
       },
       {
-        "measure": "cups",
-        "name": "Sugar In The Raw\u00ae",
+        "measure": "teaspoons",
+        "name": "squares milk chocolate",
+        "role": "binding agent",
+        "quantity": 1.8
+      },
+      {
+        "measure": "cup",
+        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
         "role": "sugar",
         "quantity": 0.5
       },
       {
+        "measure": "tablespoon",
+        "name": "prepared mincemeat pie filling",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
         "measure": "cup",
-        "name": "dried fig",
+        "name": "coffee",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "pounds",
+        "name": "jumbo semisweet chocolate chip",
         "role": "flavor texture",
         "quantity": 0.8
       },
       {
-        "measure": "units",
-        "name": "blueberry",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
-        "measure": "package",
-        "name": "prepared chocolate frosting",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
         "measure": "teaspoon",
-        "name": "bars white chocolate",
+        "name": "chopped raisin",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
         "measure": "tablespoons",
-        "name": "semisweet chocolate chip",
+        "name": "vanilla frosting",
         "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "grated carrot",
-        "role": "flavor texture",
-        "quantity": 0.5
+        "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "lard",
+        "name": "instant butterscotch pudding mix",
         "role": "fat",
         "quantity": 0.5
       }
     ],
-    "fitness": 435
+    "fitness": 437
+  },
+  {
+    "title": "WsABBYIRBEHDKOCIsIdBCvHf",
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "5-grain hot cereal mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "hot milk",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "cup",
+        "name": "real maple syrup",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "fructose",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "dark cocoa powder",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "very ripe persimmon",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "chopped salted peanut",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "chopped raisin",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "unsweetened coconut",
+        "role": "flavor texture",
+        "quantity": 8.7
+      },
+      {
+        "measure": "cup",
+        "name": "cubes beef bouillon cube",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "olive oil",
+        "role": "fat",
+        "quantity": 0.5
+      }
+    ],
+    "fitness": 437
   }
 ]
