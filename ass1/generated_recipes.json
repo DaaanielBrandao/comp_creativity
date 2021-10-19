@@ -1,294 +1,211 @@
 [
   {
-    "title": "butter sugar cookies",
+    "title": "favorite sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "milk",
-        "role": "binding agent",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "caramel sundae syrup",
-        "role": "binding agent",
-        "quantity": 1.6
-      },
-      {
-        "measure": "tablespoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.3
-      },
-      {
         "measure": "cup",
-        "name": "finely ground almond",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoon",
-        "name": "gluten-free rolled oat",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "flax seed",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "granola",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "white rice flour",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "instructions": "\nAdd almond butter, almond butter, turbinado sugar. Then add non-fat plain yogurt, apple juice, quick rise yeast, pie crust mix. Finally, join the following flavour textures: corn flake cereal, Stevia Extract In The Raw\u2122, cider vinegar, Stevia Extract In The Raw\u2122, dry red wine, canned pumpkin. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 271,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "title": "butter cookies",
-    "ingredients": [
-      {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "container cream cheese frosting",
+        "name": "hot milk",
         "role": "binding agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "granola",
-        "role": "flavor texture",
         "quantity": 0.5
       },
       {
         "measure": "teaspoon",
-        "name": "finely grated chocolate bar",
-        "role": "flavor texture",
+        "name": "baking soda",
+        "role": "rising agent",
         "quantity": 0.2
       },
       {
-        "measure": "cup",
-        "name": "flax seed",
+        "measure": "teaspoon",
+        "name": "lime zest",
         "role": "flavor texture",
         "quantity": 0.3
       },
       {
+        "measure": "cups",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
         "measure": "teaspoon",
-        "name": "smoked Gouda cheese",
+        "name": "pretzel twist",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
-        "measure": "package",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae SKOR\u2122 Toffee Bit",
+        "measure": "tablespoon",
+        "name": "sweet potato puree",
         "role": "flavor texture",
         "quantity": 0.7
       },
       {
-        "measure": "cups",
-        "name": "white rice flour",
+        "measure": "cup",
+        "name": "hot chocolate mix",
         "role": "flour",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd buttery round cracker, granulated sugar for decoration. Then add cream of tartar, cream of tartar, baking soda, sifted whole wheat pastry flour. Finally, join the following flavour textures: canned pumpkin, whole orange with peel - chopped, dairy-free and gluten-free chocolate chip, candy corn, very ripe persimmon, sesame seed. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 261,
+    "instructions": "\nAdd Crisco\u00ae Baking Sticks All-Vegetable Shortening, turbinado sugar. Then add chocolate cream-filled sandwich cookie, large egg, active dry yeast, spice cake mix. Finally, join the following flavour textures: tahini, chopped pistachio, container frozen whipped topping, lavender flower. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
+    "fitness": 284,
     "properties": {
       "crunchiness": "normal",
       "spread": "normal"
     }
   },
   {
-    "title": "butter cookies",
+    "title": "favorite sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "tablespoons",
-        "name": "fructose sweetener",
-        "role": "sugar",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "tablespoon",
+        "measure": "cup",
+        "name": "hot milk",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
         "name": "active dry yeast",
         "role": "rising agent",
         "quantity": 0.3
       },
       {
-        "measure": "cups",
-        "name": "finely chopped blanched almond",
+        "measure": "tablespoon",
+        "name": "sweet potato puree",
         "role": "flavor texture",
-        "quantity": 0.4
+        "quantity": 0.7
       },
       {
-        "measure": "cup",
-        "name": "flax seed",
+        "measure": "teaspoon",
+        "name": "lime zest",
         "role": "flavor texture",
         "quantity": 0.3
       },
       {
-        "measure": "ounce",
-        "name": "rosemary flavored chocolate",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
         "measure": "cup",
-        "name": "chopped walnut",
+        "name": "apple pie spice",
         "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoons",
-        "name": "ground cinnamon",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "white rice flour",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "cups",
+        "name": "instant hot chocolate mix",
         "role": "flour",
         "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "boiling water",
+        "role": "binding agent",
+        "quantity": 0.2
       }
     ],
-    "instructions": "\nAdd peanut butter chip, fructose sweetener, granulated sugar for decoration. Then add milk chocolate candy kiss, low sodium baking powder, gluten-free all purpose baking flour, gluten-free all purpose baking flour. Finally, join the following flavour textures: finely chopped blanched almond, champagne, rosemary flavored chocolate, chopped walnut, ground cinnamon. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 261,
+    "instructions": "\nAdd grapeseed oil, sugar substitute with aspartame. Then add creamy salad dressing, creamy salad dressing, hartshorn, chocolate cake mix. Finally, join the following flavour textures: lavender flower, tahini, almond brickle chip, chopped pistachio. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
+    "fitness": 266,
     "properties": {
       "crunchiness": "normal",
-      "spread": "high"
+      "spread": "normal"
     }
   },
   {
-    "title": "butter cookies",
+    "title": "favorite sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "units",
-        "name": "creamy peanut butter",
+        "measure": "cup",
+        "name": "hot milk",
         "role": "binding agent",
-        "quantity": 24.0
+        "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "container cream cheese frosting",
+        "name": "lemon juice",
         "role": "binding agent",
-        "quantity": 0.4
+        "quantity": 0.1
       },
       {
-        "measure": "tablespoon",
+        "measure": "teaspoon",
         "name": "active dry yeast",
         "role": "rising agent",
         "quantity": 0.3
       },
       {
-        "measure": "teaspoon",
-        "name": "finely grated chocolate bar",
+        "measure": "cup",
+        "name": "apple pie spice",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 0.4
       },
       {
-        "measure": "tablespoons",
-        "name": "red candy-coated chocolate piece",
+        "measure": "cups",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "units",
+        "name": "green maraschino cherry",
         "role": "flavor texture",
         "quantity": 2.0
       },
       {
-        "measure": "cup",
-        "name": "finely ground almond",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "chopped walnut",
+        "measure": "teaspoon",
+        "name": "pretzel twist",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
         "measure": "teaspoon",
-        "name": "finely ground graham cracker crumb",
+        "name": "lime zest",
         "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "units",
-        "name": "walnut half",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 0.3
       },
       {
         "measure": "cups",
-        "name": "white rice flour",
+        "name": "pie crust mix",
         "role": "flour",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd LAND O LAKES\u00ae Butter, aspartame sweetener. Then add corn syrup, fun size bars milk chocolate covered caramel and nougat candy, fun size bars milk chocolate covered caramel and nougat candy, gluten-free baking powder, low calorie chocolate cake mix. Finally, join the following flavour textures: small potato, carob powder, coffee flavored liqueur, dry red wine, coffee flavored liqueur, root beer concentrate, large jalapeno pepper. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd Crisco\u00ae Baking Sticks All-Vegetable Shortening, turbinado sugar. Then add chocolate cream-filled sandwich cookie, candy-coated milk chocolate piece, warm water, hartshorn, candied mixed citrus peel. Finally, join the following flavour textures: almond brickle chip, chopped pistachio, very ripe persimmon, container frozen whipped topping, tahini. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
     "fitness": 259,
     "properties": {
       "crunchiness": "normal",
@@ -296,70 +213,70 @@
     }
   },
   {
-    "title": "butter cookies",
+    "title": "sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "units",
-        "name": "caramel sundae syrup",
+        "name": "cream cheese",
         "role": "binding agent",
-        "quantity": 1.6
+        "quantity": 0.7
       },
       {
-        "measure": "teaspoons",
-        "name": "beaten egg",
+        "measure": "cup",
+        "name": "warm water",
         "role": "binding agent",
-        "quantity": 2.0
+        "quantity": 0.1
       },
       {
-        "measure": "tablespoon",
+        "measure": "teaspoon",
         "name": "active dry yeast",
         "role": "rising agent",
         "quantity": 0.3
       },
       {
-        "measure": "cup",
-        "name": "cocoa nib",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "package",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae SKOR\u2122 Toffee Bit",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
         "measure": "teaspoon",
-        "name": "finely grated chocolate bar",
+        "name": "pretzel twist",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
         "measure": "cups",
-        "name": "finely chopped blanched almond",
+        "name": "gumdrop",
         "role": "flavor texture",
-        "quantity": 0.4
+        "quantity": 1.5
+      },
+      {
+        "measure": "cup",
+        "name": "thawed COOL WHIP Whipped Topping",
+        "role": "flavor texture",
+        "quantity": 0.5
       },
       {
         "measure": "cups",
-        "name": "white rice flour",
+        "name": "pie crust mix",
         "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "skim milk",
+        "role": "binding agent",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd LAND O LAKES\u00ae Butter, fructose. Then add creamy salad dressing, chocolate sweetened condensed milk, hartshorn, low calorie chocolate cake mix. Finally, join the following flavour textures: cinnamon schnapp, pitted and chopped date, shelled hemp seed, bars white chocolate, very ripe persimmon. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd Crisco\u00ae Baking Sticks All-Vegetable Shortening, granular no-calorie sucralose sweetener. Then add candy-coated milk chocolate piece, candy-coated milk chocolate piece, large egg, hartshorn, candied mixed citrus peel. Finally, join the following flavour textures: red wine, roasted tahini, coffee. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
     "fitness": 259,
     "properties": {
       "crunchiness": "normal",
@@ -367,64 +284,141 @@
     }
   },
   {
-    "title": "butter cookies",
+    "title": "pumpkin sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoons",
+        "name": "bag milk chocolate candy kiss",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "units",
+        "name": "cream cheese",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "cup",
+        "name": "hot milk",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
         "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "lime zest",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 35.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "pretzel twist",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "pie crust mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "instructions": "\nAdd grapeseed oil, sugar substitute with aspartame. Then add thawed orange juice concentrate, candy-coated milk chocolate piece, creamy salad dressing, hartshorn, sifted cake flour. Finally, join the following flavour textures: chopped pistachio, tahini, graham cracker, tahini, chopped pistachio, red wine. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
+    "fitness": 258,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "title": "fruit favorite sugar cookies",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "units",
-        "name": "caramel sundae syrup",
+        "name": "cream cheese",
         "role": "binding agent",
-        "quantity": 1.6
+        "quantity": 0.7
       },
       {
-        "measure": "cup",
-        "name": "container cream cheese frosting",
-        "role": "binding agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoon",
-        "name": "active dry yeast",
+        "measure": "teaspoon",
+        "name": "baking soda",
         "role": "rising agent",
-        "quantity": 0.3
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
       },
       {
         "measure": "teaspoon",
-        "name": "finely grated chocolate bar",
+        "name": "pretzel twist",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "pouches red decorating cookie icing",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoon",
-        "name": "container prepared chocolate frosting",
+        "name": "dry red wine",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
         "measure": "cups",
-        "name": "white rice flour",
+        "name": "instant hot chocolate mix",
         "role": "flour",
         "quantity": 1.0
+      },
+      {
+        "measure": "ounces",
+        "name": "minced fresh ginger root",
+        "role": "flavor texture",
+        "quantity": 2.0
       }
     ],
-    "instructions": "\nAdd powdered peanut butter, powdered peanut butter, sugar-free strawberry Jell-O\u00ae mix. Then add ice water, PHILADELPHIA Cream Cheese, hartshorn, cornstarch. Finally, join the following flavour textures: shelled hemp seed, chopped peanut, toasted chopped pistachio, chopped cherry, chopped peanut. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd grapeseed oil, sugar substitute with aspartame. Then add light cream, light cream, active dry yeast, coconut flour. Finally, join the following flavour textures: chopped pistachio, red wine, red wine, hazelnuts - toasted. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
     "fitness": 258,
     "properties": {
       "crunchiness": "normal",
@@ -432,135 +426,129 @@
     }
   },
   {
-    "title": "butter cookies",
+    "title": "sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "container cream cheese frosting",
+        "measure": "units",
+        "name": "cream cheese",
         "role": "binding agent",
-        "quantity": 0.4
+        "quantity": 0.7
       },
       {
-        "measure": "tablespoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "small",
-        "name": "bars white chocolate",
-        "role": "flavor texture",
-        "quantity": 16.0
+        "measure": "cup",
+        "name": "hot milk",
+        "role": "binding agent",
+        "quantity": 0.5
       },
       {
         "measure": "teaspoon",
-        "name": "container prepared chocolate frosting",
-        "role": "flavor texture",
+        "name": "baking soda",
+        "role": "rising agent",
         "quantity": 0.2
       },
       {
-        "measure": "cups",
-        "name": "cornmeal",
+        "measure": "teaspoon",
+        "name": "lime zest",
         "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "can",
-        "name": "large marshmallow",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 0.3
       },
       {
         "measure": "cups",
-        "name": "white rice flour",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "cup",
+        "name": "hot chocolate mix",
         "role": "flour",
         "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 0.6
       }
     ],
-    "instructions": "\nAdd miniature chocolate covered peanut butter cup, cinnamon sugar. Then add milk chocolate candy kiss, milk chocolate candy kiss, hartshorn, strawberry cake mix. Finally, join the following flavour textures: vanilla wafer cookie, fresh pumpkin puree, colored miniature marshmallow, fresh pumpkin puree, large marshmallow, colored miniature marshmallow. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 258,
+    "instructions": "\nAdd reduced fat peanut butter, green decorator sugar. Then add powdered milk, packets strawberries and cream instant oatmeal, packets strawberries and cream instant oatmeal, baking powder, yellow cake mix. Finally, join the following flavour textures: green tea powder, chopped dry roasted macadamia nut, chopped dry roasted macadamia nut, green tea powder. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
+    "fitness": 257,
     "properties": {
       "crunchiness": "normal",
       "spread": "normal"
     }
   },
   {
-    "title": "butter cookies",
+    "title": "sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "container cream cheese frosting",
+        "name": "lemon juice",
         "role": "binding agent",
-        "quantity": 0.4
+        "quantity": 0.1
       },
       {
-        "measure": "tablespoon",
+        "measure": "teaspoon",
         "name": "active dry yeast",
         "role": "rising agent",
         "quantity": 0.3
       },
       {
+        "measure": "units",
+        "name": "green maraschino cherry",
+        "role": "flavor texture",
+        "quantity": 2.0
+      },
+      {
         "measure": "cups",
-        "name": "maple extract",
+        "name": "cold coffee",
         "role": "flavor texture",
-        "quantity": 1.3
+        "quantity": 1.5
       },
       {
-        "measure": "small",
-        "name": "bars white chocolate",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
-        "measure": "cup",
-        "name": "Ghirardelli\u00ae 60% Cacao Bittersweet Chocolate Chip",
+        "measure": "teaspoon",
+        "name": "chopped walnut",
         "role": "flavor texture",
         "quantity": 0.1
       },
       {
-        "measure": "cup",
-        "name": "JELL-O White Chocolate Flavor Instant Pudding",
+        "measure": "teaspoon",
+        "name": "pretzel twist",
         "role": "flavor texture",
-        "quantity": 0.3
+        "quantity": 0.2
       },
       {
         "measure": "cups",
-        "name": "cornmeal",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cups",
-        "name": "white rice flour",
+        "name": "pie crust mix",
         "role": "flour",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd buttery round cracker, crushed sugar-frosted corn flake cereal, crushed sugar-frosted corn flake cereal. Then add cream of tartar, cream of tartar, hartshorn, Duncan Hines\u00ae Red Velvet Cake Mix. Finally, join the following flavour textures: drops green food color, pretzel twist, brewed coffee, sliced peach, walnut, coarsely crushed pretzel twists or stick, drops green food color. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd reduced fat peanut butter, green decorator sugar. Then add skim milk, skim milk, active dry yeast, bread flour, bread flour. Finally, join the following flavour textures: almond paste, mini pretzel, green tea powder, strawberry jam, grated lime zest, almond paste. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
     "fitness": 257,
     "properties": {
       "crunchiness": "normal",
@@ -568,142 +556,160 @@
     }
   },
   {
-    "title": "butter chocolate cookies",
+    "title": "sugar cookies",
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
         "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
         "role": "sugar",
         "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "container cream cheese frosting",
-        "role": "binding agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoon",
-        "name": "finely grated chocolate bar",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "granola",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "chopped slivered almond",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "small",
-        "name": "bars white chocolate",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "finely ground graham cracker crumb",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "white rice flour",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "instructions": "\nAdd LAND O LAKES\u00ae Butter, aspartame sweetener. Then add creamy salad dressing, fun size bars milk chocolate covered caramel and nougat candy, gluten-free baking powder, instant pistachio pudding mix. Finally, join the following flavour textures: finely chopped dried apple ring, ground allspice, Stevia Extract In The Raw\u2122, chopped apple, root beer concentrate, finely chopped dried apple ring. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 257,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "title": "butter cookies",
-    "ingredients": [
-      {
-        "measure": "cups",
-        "name": "brown sugar and butter flavored crispy corn and oat breakfast cereal",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "roll Pillsbury\u00ae refrigerated sugar cookie dough",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "container cream cheese frosting",
-        "role": "binding agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoon",
-        "name": "finely grated chocolate bar",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "cornmeal",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "teaspoons",
-        "name": "ripe persimmon",
-        "role": "flavor texture",
-        "quantity": 2.0
       },
       {
         "measure": "units",
-        "name": "drop maple flavored extract",
-        "role": "flavor texture",
-        "quantity": 0.2
+        "name": "cream cheese",
+        "role": "binding agent",
+        "quantity": 0.7
       },
       {
         "measure": "cup",
-        "name": "chopped walnut",
+        "name": "hot milk",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "cups",
+        "name": "frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "lime zest",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "apple pie spice",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "pie crust mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "bag milk chocolate candy kiss",
+        "role": "binding agent",
+        "quantity": 0.1
+      }
+    ],
+    "instructions": "\nAdd reduced fat peanut butter, green decorator sugar. Then add freshly squeezed orange juice, packets strawberries and cream instant oatmeal, active dry yeast, bread flour. Finally, join the following flavour textures: sorghum, chopped pistachio nut, green tea powder, dried sour cherry. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
+    "fitness": 256,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "title": "sugar cookies",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "Finlandia Perfectly Salted Butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' sugar for dusting",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "cream cheese",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking soda",
+        "role": "rising agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "package",
+        "name": "hot fudge topping",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "pretzel twist",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
         "measure": "cups",
-        "name": "white rice flour",
+        "name": "mini chocolate-coated caramel-peanut nougat candy bar",
+        "role": "flavor texture",
+        "quantity": 0.9
+      },
+      {
+        "measure": "tablespoon",
+        "name": "sweet potato puree",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "cup",
+        "name": "thawed COOL WHIP Whipped Topping",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "cold coffee",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "pound",
+        "name": "finely crushed chocolate wafer cookie",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "instant hot chocolate mix",
         "role": "flour",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd LAND O LAKES\u00ae Butter, aspartame sweetener. Then add fun size bars milk chocolate covered caramel and nougat candy, fun size bars milk chocolate covered caramel and nougat candy, gluten-free baking powder, cook-and-serve chocolate pudding mix, cook-and-serve chocolate pudding mix. Finally, join the following flavour textures: finely chopped dried apple ring, semi-sweet chocolate chunk, finely chopped toasted hazelnut, orange decorating icing, dry red wine. \nPut the dough in the oven from 1 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 256,
+    "instructions": "\nAdd grapeseed oil, sugar substitute with aspartame. Then add bars milk chocolate bar, bars milk chocolate bar, active dry yeast, chocolate cake mix. Finally, join the following flavour textures: large marshmallow, red wine, cinnamon candy, lavender flower, jumbo chocolate chip, coffee, chopped pistachio, red and green candied cherry. \nPut the dough in the oven from 1 to 40 minutes. Take it from the oven and let it cool down.",
+    "fitness": 255,
     "properties": {
       "crunchiness": "normal",
       "spread": "normal"
