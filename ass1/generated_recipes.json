@@ -2,667 +2,566 @@
   {
     "ingredients": [
       {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
         "measure": "cups",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "units",
-        "name": "cold milk",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "units",
-        "name": "Spice Islands\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 30.0
-      },
-      {
-        "measure": "cup",
-        "name": "confectioners' chocolate",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "raspberry preserve",
-        "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "thawed frozen whipped topping",
-        "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
+        "name": "white rice flour",
         "role": "flour",
         "quantity": 1.0
-      }
-    ],
-    "title": "candy whole fashioned zucchini chocolate cookies",
-    "instructions": "\nAdd olive oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add fresh lemon juice, candy-coated milk chocolate piece, baking soda and King Arthur Almond Flour. Finally, join the following flavour textures: meringue powder, HERSHEY'S\u00ae Chipits\u00ae SKOR\u2122 Toffee Bit, cacao nib, quick-cooking Irish oatmeal and candy sprinkle. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 359,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
+        "measure": "tablespoon",
+        "name": "baking powder",
         "role": "rising agent",
-        "quantity": 0.4
+        "quantity": 0.2
       },
       {
-        "measure": "cups",
-        "name": "pods durian",
-        "role": "flavor texture",
-        "quantity": 0.6
+        "measure": "units",
+        "name": "large Naturegg\u2122 Omega 3 egg",
+        "role": "binding agent",
+        "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "sourball hard candy",
+        "name": "semisweet chocolate morsel",
         "role": "flavor texture",
         "quantity": 0.1
       },
       {
         "measure": "cup",
-        "name": "thawed frozen whipped topping",
+        "name": "semi-sweet chocolate",
         "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "pound",
-        "name": "carrot",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "units",
-        "name": "Spice Islands\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 30.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 0.2
       },
       {
         "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "pound",
-        "name": "container prepared coconut pecan frosting",
-        "role": "flavor texture",
-        "quantity": 0.5
-      }
-    ],
-    "title": "candy whole chocolate candied cookies",
-    "instructions": "\nAdd olive oil, powdered sugar and powdered sugar. Then add fresh lemon juice, fresh lemon juice, low sodium baking powder, Gold Medal\u00ae all-purpose flour and Gold Medal\u00ae all-purpose flour. Finally, join the following flavour textures: chopped pistachio nut, chopped dried apricot, candy sprinkle, chopped candied orange peel, solid pack pumpkin puree, cacao nib and rainbow colored miniature marshmallow. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 357,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "chocolate cream-filled sandwich cookie",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cups",
-        "name": "egg",
-        "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "chopped dry roasted macadamia nut",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "Spice Islands\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 30.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "pouch cooked and cooled UNCLE BEN'S\u00ae Ready Rice\u00ae Basmati",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoons",
-        "name": "chocolate flavored confectioners coating",
-        "role": "flavor texture",
-        "quantity": 3.0
-      },
-      {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "title": "whole candy vanilla zucchini flavored chocolate cookies",
-    "instructions": "\nAdd shortening and aspartame sweetener. Then add lukewarm milk, heavy whipping cream, heavy whipping cream, lukewarm milk, brewers' yeast, brewers' yeast and quinoa flour. Finally, join the following flavour textures: grated zucchini, whole clove, solid pack pumpkin, cacao nib and green candied cherry. \nPut the dough in the oven from 5 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 356,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "milk",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "units",
-        "name": "cold milk",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "teaspoon",
-        "name": "raspberry preserve",
-        "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "thawed frozen whipped topping",
-        "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "ounces",
         "name": "pine nut",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "title": "candy orange whole mini chopped cacao nib candied peel chocolate cookies",
-    "instructions": "\nAdd olive oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add squares milk chocolate, candy-coated milk chocolate piece, baking soda and King Arthur Almond Flour. Finally, join the following flavour textures: quick-cooking Irish oatmeal, candy sprinkle, seedless red raspberry jam, cacao nib and candy sprinkle. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 356,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "cold milk",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "units",
-        "name": "Spice Islands\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 30.0
-      },
-      {
-        "measure": "cup",
-        "name": "confectioners' chocolate",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "teaspoon",
-        "name": "pouch cooked and cooled UNCLE BEN'S\u00ae Ready Rice\u00ae Basmati",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoons",
-        "name": "red food coloring",
-        "role": "flavor texture",
-        "quantity": 2.2
-      },
-      {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "chopped dried date",
-        "role": "flavor texture",
-        "quantity": 0.1
-      }
-    ],
-    "title": "candy whole fashioned zucchini chocolate cookies",
-    "instructions": "\nAdd fun size bars chocolate-covered crispy peanut butter candy and firmly packed brown sugar. Then add light cream, light cream, hartshorn and quinoa flour. Finally, join the following flavour textures: chocolate sandwich cookie crumb, vinegar, vinegar, candied cherry, carrot baby food and port wine. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 356,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "reduced-fat creamy peanut butter",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "units",
-        "name": "cold milk",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "confectioners' chocolate",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "container prepared coconut pecan frosting",
         "role": "flavor texture",
         "quantity": 0.3
       },
       {
-        "measure": "tablespoons",
-        "name": "red food coloring",
-        "role": "flavor texture",
-        "quantity": 2.2
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "drops green food color",
-        "role": "flavor texture",
+        "name": "margarine",
+        "role": "fat",
         "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
+        "measure": "units",
+        "name": "container soy yogurt",
+        "role": "binding agent",
+        "quantity": 0.2
       }
     ],
-    "title": "candy whole chocolate coffee cookies",
-    "instructions": "\nAdd vegan butter and sugar substitute with aspartame. Then add boiling water, low-fat milk, baking soda and matzo cake flour. Finally, join the following flavour textures: vinegar, prepared chocolate fudge frosting, vinegar, Ghirardelli 60% Cacao Bittersweet Chocolate Baking Chip and persimmon pulp. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 356,
+    "title": "cereal sugar bacon chopped cooked cornflakes cookies",
+    "instructions": "\r\nAdd lightly packed light brown sugar and margarine. Then add white rice flour, brewers' yeast, JIF\u00ae Creamy Peanut Butter and container soy yogurt. Finally, join the following flavour textures: raspberry preserve, chopped cooked bacon and cornflakes cereal. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 346,
     "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
+      "crunchiness": "crunchy",
+      "spread": "low"
     }
   },
   {
     "ingredients": [
       {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "milk",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
+        "measure": "cups",
+        "name": "white rice flour",
+        "role": "flour",
         "quantity": 1.0
       },
       {
-        "measure": "teaspoons",
-        "name": "chocolate flavored confectioners coating",
+        "measure": "tablespoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "egg at room temperature",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "container soy yogurt",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "cornflake",
         "role": "flavor texture",
         "quantity": 3.0
       },
       {
-        "measure": "ounces",
+        "measure": "cup",
+        "name": "semisweet chocolate morsel",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "teaspoon",
+        "name": "cornmeal",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
         "name": "pine nut",
         "role": "flavor texture",
-        "quantity": 2.0
+        "quantity": 0.3
       },
       {
-        "measure": "teaspoon",
-        "name": "raspberry preserve",
-        "role": "flavor texture",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "McCormick\u00ae Ground Cinnamon",
-        "role": "flavor texture",
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
         "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
       }
     ],
-    "title": "whole candy mini nib chocolate cookies",
-    "instructions": "\nAdd peanut butter, peanut butter and refrigerated sugar cookie dough. Then add honey, honey, low sodium baking powder and refrigerated cookie dough. Finally, join the following flavour textures: finely shredded coconut, pieces red string licorice, miniature marshmallow, meringue powder and dried tart cherry. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 356,
+    "title": "cornmeal cornflake sugar cookies",
+    "instructions": "\r\nAdd lightly packed light brown sugar and margarine. Then add white rice flour, baking powder, egg at room temperature and container soy yogurt. Finally, join the following flavour textures: cornflake, semisweet chocolate morsel, cornmeal and large fresh strawberry. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 342,
     "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
+      "crunchiness": "crunchy",
+      "spread": "low"
     }
   },
   {
     "ingredients": [
       {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
+        "measure": "cups",
+        "name": "brown rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "brewers' yeast",
+        "role": "rising agent",
+        "quantity": 0.3
       },
       {
         "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
+        "name": "vanilla-flavored almond milk",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "egg at room temperature",
+        "role": "binding agent",
         "quantity": 0.5
       },
       {
         "measure": "cups",
+        "name": "finely ground walnut",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "coffee",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' sugar for decoration",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "shortening for frying",
+        "role": "fat",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
+      }
+    ],
+    "title": "finely ground walnut sugar cookies",
+    "instructions": "\r\nAdd confectioners' sugar for decoration, lightly packed light brown sugar, anise oil and margarine. Then add all-purpose flour, hartshorn, soy milk and egg. Finally, join the following flavour textures: finely ground walnut and crushed light potato chip. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 338,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "white rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
         "name": "egg",
         "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced-fat creamy peanut butter",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "units",
-        "name": "Spice Islands\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 30.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "chopped dry roasted macadamia nut",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "confectioners' chocolate",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "thawed frozen whipped topping",
-        "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "title": "candy whole chocolate flavored cookies",
-    "instructions": "\nAdd butter pecan cake mix and coarse sugar crystal. Then add skim milk, JIF\u00ae Creamy Peanut Butter, gluten-free baking powder, wheat germ and wheat germ. Finally, join the following flavour textures: bag semi-sweet chocolate chunk, cacao nib, grated zucchini, bars chocolate candy, bag semi-sweet chocolate chunk and candy sprinkle. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 355,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "container cream cheese frosting",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "units",
-        "name": "cold milk",
-        "role": "binding agent",
         "quantity": 0.6
       },
       {
+        "measure": "cup",
+        "name": "vanilla-flavored almond milk",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "pine nut",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "vanilla protein powder",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
         "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
+        "name": "cornmeal",
+        "role": "flavor texture",
+        "quantity": 0.5
       },
       {
         "measure": "cups",
-        "name": "anise seed",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "pound",
-        "name": "whole walnut",
-        "role": "flavor texture",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
         "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "thawed frozen whipped topping",
-        "role": "flavor texture",
-        "quantity": 4.0
+        "name": "extra crunchy peanut butter",
+        "role": "fat",
+        "quantity": 0.6
       },
       {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
+        "measure": "cup",
+        "name": "shortening",
+        "role": "fat",
+        "quantity": 0.1
+      }
+    ],
+    "title": "cornflakes cereal chocolate cookies",
+    "instructions": "\r\nAdd white sugar, butter and shortening. Then add all-purpose flour, hartshorn, egg and whipped cream. Finally, join the following flavour textures: cornflakes cereal, cooked grated carrot and cornmeal. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 336,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "low"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "rice flour",
+        "role": "flour",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "chocolate chip cookie dough",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "large Naturegg\u2122 Omega 3 egg",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "egg at room temperature",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "semi-sweet chocolate",
         "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "gluten-free chocolate chip",
+        "role": "flavor texture",
+        "quantity": 2.4
+      },
+      {
+        "measure": "cup",
+        "name": "semisweet chocolate morsel",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "extra crunchy peanut butter",
+        "role": "fat",
+        "quantity": 0.6
+      }
+    ],
+    "title": "chocolate sugar almond chopped extract cookies",
+    "instructions": "\r\nAdd white sugar and salted butter. Then add rice flour, dark chocolate cake mix, brewers' yeast, JIF\u00ae Creamy Peanut Butter and thawed orange juice concentrate. Finally, join the following flavour textures: chopped cooked bacon, drops almond extract and raspberry preserve. \r\nPut the dough in the oven from 6 to 23 minutes. Take it from the oven and let it cool down.",
+    "fitness": 335,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "low"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "white rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "brown rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "brewers' yeast",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "egg at room temperature",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "vanilla-flavored almond milk",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "cornflake",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "pine nut",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "cornmeal",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
+      }
+    ],
+    "title": "cornmeal sugar cookies",
+    "instructions": "\r\nAdd lightly packed light brown sugar and margarine. Then add white rice flour, all-purpose flour, brewers' yeast, egg at room temperature and milk chocolate chip. Finally, join the following flavour textures: cornflake, pine nut and cornmeal. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 331,
+    "properties": {
+      "crunchiness": "chewey",
+      "spread": "low"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "brown rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "brewers' yeast",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "egg at room temperature",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "semisweet chocolate morsel",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "teaspoon",
+        "name": "coffee",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' sugar for decoration",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "shortening for frying",
+        "role": "fat",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "lemon juice",
+        "role": "binding agent",
+        "quantity": 0.1
+      }
+    ],
+    "title": "semisweet chocolate morsel sugar cookies",
+    "instructions": "\r\nAdd lightly packed light brown sugar, confectioners' sugar for decoration, shortening for frying and margarine. Then add all-purpose flour, brewers' yeast, egg at room temperature and lemon juice. Finally, join the following flavour textures: semisweet chocolate morsel and coffee. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 327,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "brown rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "brewers' yeast",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "large Naturegg\u2122 Omega 3 egg",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "vanilla-flavored almond milk",
+        "role": "binding agent",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
+        "name": "semi-sweet chocolate",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "semisweet chocolate morsel",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "pine nut",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "squares unsweetened baking chocolate",
+        "role": "flavor texture",
         "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "superfine sugar",
+        "role": "sugar",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
       }
     ],
-    "title": "candy whole banana chip overripe cookies",
-    "instructions": "\nAdd olive oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add egg at room temperature, candy-coated milk chocolate piece, candy-coated milk chocolate piece, low sodium baking powder and Gold Medal\u00ae all-purpose flour. Finally, join the following flavour textures: chopped and toasted walnut, coconut-flavored rum, candy sprinkle, candy sprinkle and cacao nib. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 355,
+    "title": "squares unsweetened baking chocolate semisweet chocolate morsel cereal sugar cornflakes cookies",
+    "instructions": "\r\nAdd lightly packed light brown sugar, superfine sugar and margarine. Then add brown rice flour, brewers' yeast, large Naturegg\u2122 Omega 3 egg and vanilla-flavored almond milk. Finally, join the following flavour textures: semi-sweet chocolate, semisweet chocolate morsel, pine nut and squares unsweetened baking chocolate. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 327,
     "properties": {
       "crunchiness": "normal",
       "spread": "normal"
@@ -671,78 +570,167 @@
   {
     "ingredients": [
       {
-        "measure": "cup",
-        "name": "butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "cane sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
         "measure": "cups",
+        "name": "white rice flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
         "name": "egg",
         "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "units",
-        "name": "milk",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "teaspoon",
-        "name": "active dry yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "pods durian",
-        "role": "flavor texture",
         "quantity": 0.6
       },
       {
-        "measure": "pound",
-        "name": "whole walnut",
+        "measure": "units",
+        "name": "egg at room temperature",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "unwrapped caramel candy",
         "role": "flavor texture",
+        "quantity": 6.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "vanilla extract",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "cornmeal",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "semisweet chocolate morsel",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
         "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "thawed frozen whipped topping",
-        "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "toffee baking bit",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "name": "JIF\u00ae Peanut Butter",
+        "role": "fat",
+        "quantity": 0.1
       },
       {
         "measure": "cup",
-        "name": "instant chocolate pudding mix",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "marshmallow",
+        "role": "flavor texture",
+        "quantity": 0.7
+      }
+    ],
+    "title": "unwrapped caramel candy cornmeal sugar cookies",
+    "instructions": "\r\nAdd lightly packed light brown sugar, JIF\u00ae Peanut Butter and margarine. Then add white rice flour, baking powder, egg and egg at room temperature. Finally, join the following flavour textures: unwrapped caramel candy, vanilla extract, cornmeal, semisweet chocolate morsel and marshmallow. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 324,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "low"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "white rice flour",
         "role": "flour",
         "quantity": 1.0
       },
       {
-        "measure": "cup",
-        "name": "finely grated lemon zest",
+        "measure": "tablespoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "egg at room temperature",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "LAND O LAKES\u00ae Egg",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "finely ground walnut",
+        "role": "flavor texture",
+        "quantity": 1.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "vanilla extract",
         "role": "flavor texture",
         "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "semi-sweet chocolate",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cup",
+        "name": "pine nut",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "white sugar",
+        "role": "sugar",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "lightly packed light brown sugar",
+        "role": "sugar",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "margarine",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "ripe persimmon",
+        "role": "flavor texture",
+        "quantity": 1.0
       }
     ],
-    "title": "candy whole cacao nib chocolate cookies",
-    "instructions": "\nAdd olive oil and powdered sugar. Then add crushed pineapple with juice, squares milk chocolate, baking powder, soy flour and soy flour. Finally, join the following flavour textures: chopped pistachio nut, cinnamon whiskey, grated fresh ginger, cacao nib, grated fresh ginger, cinnamon whiskey and canned pumpkin. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
-    "fitness": 355,
+    "title": "finely ground walnut vanilla extract sugar cookies",
+    "instructions": "\r\nAdd white sugar, lightly packed light brown sugar and margarine. Then add white rice flour, baking powder, egg at room temperature and LAND O LAKES\u00ae Egg. Finally, join the following flavour textures: finely ground walnut, vanilla extract, semi-sweet chocolate, pine nut and ripe persimmon. \r\nPut the dough in the oven from 6 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 320,
     "properties": {
       "crunchiness": "normal",
-      "spread": "normal"
+      "spread": "high"
     }
   }
 ]
