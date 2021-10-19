@@ -1,712 +1,748 @@
 [
   {
-    "title": "coconut pecan butter sweetened whole white red cookies",
     "ingredients": [
       {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 4.0
+      },
+      {
+        "measure": "units",
+        "name": "cold milk",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
         "measure": "teaspoon",
-        "name": "brewers' yeast",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "units",
+        "name": "Spice Islands\u00ae Pure Vanilla Extract",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "raspberry preserve",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "thawed frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 4.0
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "title": "candy whole fashioned zucchini chocolate cookies",
+    "instructions": "\nAdd olive oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add fresh lemon juice, candy-coated milk chocolate piece, baking soda and King Arthur Almond Flour. Finally, join the following flavour textures: meringue powder, HERSHEY'S\u00ae Chipits\u00ae SKOR\u2122 Toffee Bit, cacao nib, quick-cooking Irish oatmeal and candy sprinkle. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 359,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 4.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
         "role": "rising agent",
         "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
+        "name": "pods durian",
+        "role": "flavor texture",
         "quantity": 0.6
       },
       {
         "measure": "cup",
-        "name": "red sugar sprinkle",
+        "name": "sourball hard candy",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "thawed frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 4.0
+      },
+      {
+        "measure": "pound",
+        "name": "carrot",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "Spice Islands\u00ae Pure Vanilla Extract",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "pound",
+        "name": "container prepared coconut pecan frosting",
+        "role": "flavor texture",
+        "quantity": 0.5
+      }
+    ],
+    "title": "candy whole chocolate candied cookies",
+    "instructions": "\nAdd olive oil, powdered sugar and powdered sugar. Then add fresh lemon juice, fresh lemon juice, low sodium baking powder, Gold Medal\u00ae all-purpose flour and Gold Medal\u00ae all-purpose flour. Finally, join the following flavour textures: chopped pistachio nut, chopped dried apricot, candy sprinkle, chopped candied orange peel, solid pack pumpkin puree, cacao nib and rainbow colored miniature marshmallow. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 357,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
         "role": "sugar",
-        "quantity": 0.3
+        "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "date",
-        "role": "flavor texture",
-        "quantity": 0.3
+        "measure": "units",
+        "name": "chocolate cream-filled sandwich cookie",
+        "role": "binding agent",
+        "quantity": 2.0
       },
       {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
+        "measure": "cups",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 4.0
       },
       {
         "measure": "teaspoon",
-        "name": "peppermint extract",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "chopped dry roasted macadamia nut",
         "role": "flavor texture",
-        "quantity": 0.3
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "Spice Islands\u00ae Pure Vanilla Extract",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "pouch cooked and cooled UNCLE BEN'S\u00ae Ready Rice\u00ae Basmati",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "chocolate flavored confectioners coating",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "title": "whole candy vanilla zucchini flavored chocolate cookies",
+    "instructions": "\nAdd shortening and aspartame sweetener. Then add lukewarm milk, heavy whipping cream, heavy whipping cream, lukewarm milk, brewers' yeast, brewers' yeast and quinoa flour. Finally, join the following flavour textures: grated zucchini, whole clove, solid pack pumpkin, cacao nib and green candied cherry. \nPut the dough in the oven from 5 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 356,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "milk",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "units",
+        "name": "cold milk",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "teaspoon",
+        "name": "raspberry preserve",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "thawed frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 4.0
       },
       {
         "measure": "ounces",
-        "name": "pureed date",
+        "name": "pine nut",
+        "role": "flavor texture",
+        "quantity": 2.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "title": "candy orange whole mini chopped cacao nib candied peel chocolate cookies",
+    "instructions": "\nAdd olive oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add squares milk chocolate, candy-coated milk chocolate piece, baking soda and King Arthur Almond Flour. Finally, join the following flavour textures: quick-cooking Irish oatmeal, candy sprinkle, seedless red raspberry jam, cacao nib and candy sprinkle. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 356,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "cold milk",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "units",
+        "name": "Spice Islands\u00ae Pure Vanilla Extract",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "pouch cooked and cooled UNCLE BEN'S\u00ae Ready Rice\u00ae Basmati",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "tablespoons",
+        "name": "red food coloring",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "chopped dried date",
+        "role": "flavor texture",
+        "quantity": 0.1
+      }
+    ],
+    "title": "candy whole fashioned zucchini chocolate cookies",
+    "instructions": "\nAdd fun size bars chocolate-covered crispy peanut butter candy and firmly packed brown sugar. Then add light cream, light cream, hartshorn and quinoa flour. Finally, join the following flavour textures: chocolate sandwich cookie crumb, vinegar, vinegar, candied cherry, carrot baby food and port wine. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 356,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "reduced-fat creamy peanut butter",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "units",
+        "name": "cold milk",
+        "role": "binding agent",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "container prepared coconut pecan frosting",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "tablespoons",
+        "name": "red food coloring",
+        "role": "flavor texture",
+        "quantity": 2.2
+      },
+      {
+        "measure": "cup",
+        "name": "drops green food color",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "title": "candy whole chocolate coffee cookies",
+    "instructions": "\nAdd vegan butter and sugar substitute with aspartame. Then add boiling water, low-fat milk, baking soda and matzo cake flour. Finally, join the following flavour textures: vinegar, prepared chocolate fudge frosting, vinegar, Ghirardelli 60% Cacao Bittersweet Chocolate Baking Chip and persimmon pulp. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 356,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "milk",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "chocolate flavored confectioners coating",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "ounces",
+        "name": "pine nut",
+        "role": "flavor texture",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "raspberry preserve",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "McCormick\u00ae Ground Cinnamon",
+        "role": "flavor texture",
+        "quantity": 0.4
+      }
+    ],
+    "title": "whole candy mini nib chocolate cookies",
+    "instructions": "\nAdd peanut butter, peanut butter and refrigerated sugar cookie dough. Then add honey, honey, low sodium baking powder and refrigerated cookie dough. Finally, join the following flavour textures: finely shredded coconut, pieces red string licorice, miniature marshmallow, meringue powder and dried tart cherry. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 356,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 4.0
+      },
+      {
+        "measure": "cup",
+        "name": "reduced-fat creamy peanut butter",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "units",
+        "name": "Spice Islands\u00ae Pure Vanilla Extract",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "chopped dry roasted macadamia nut",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' chocolate",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "thawed frozen whipped topping",
         "role": "flavor texture",
         "quantity": 4.0
-      }
-    ],
-    "instructions": "\r\nAdd corn oil spread and granulated white sugar. Then add hartshorn, white whole wheat flour, white whole wheat flour and creamy natural peanut butter. Finally, join the following flavour textures: bacon, semisweet chocolate, cornflake, semisweet chocolate and green tea powder. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 361,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "distilled white vinegar butter creme drops red food coloring red cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
       },
       {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
         "role": "flour",
         "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "pound",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae Pure Semi-Sweet Chocolate Chip",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "square semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "pitted ground cherry",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "lmond slice",
-        "role": "flavor texture",
-        "quantity": 1.0
       }
     ],
-    "instructions": "\r\nAdd miniature peanut butter cup, demerara sugar and demerara sugar. Then add hartshorn, moist yellow cake mix, moist yellow cake mix and whole milk. Finally, join the following flavour textures: drops red food coloring, brewed coffee, distilled white vinegar, champagne and drops red food coloring. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
+    "title": "candy whole chocolate flavored cookies",
+    "instructions": "\nAdd butter pecan cake mix and coarse sugar crystal. Then add skim milk, JIF\u00ae Creamy Peanut Butter, gluten-free baking powder, wheat germ and wheat germ. Finally, join the following flavour textures: bag semi-sweet chocolate chunk, cacao nib, grated zucchini, bars chocolate candy, bag semi-sweet chocolate chunk and candy sprinkle. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
     "fitness": 355,
     "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
+      "crunchiness": "normal",
+      "spread": "normal"
     }
   },
   {
-    "title": "bittersweet square butter distilled coffee brewed chocolate creme cookies",
     "ingredients": [
       {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
         "measure": "cup",
-        "name": "reduced fat peanut butter",
+        "name": "butter",
         "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoon",
-        "name": "cocoa powder",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "vanilla bean",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "pitted ground cherry",
-        "role": "flavor texture",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "square semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.1
-      }
-    ],
-    "instructions": "\r\nAdd miniature peanut butter cup, demerara sugar and demerara sugar. Then add hartshorn, moist yellow cake mix and whole milk. Finally, join the following flavour textures: grated lemon zest, square bittersweet chocolate, finely ground walnut, whole pecan, champagne and distilled white vinegar. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 349,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "sprinkle pecan butter marshmallow candy mini chocolate hazelnut cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
+        "name": "cane sugar",
         "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "chopped raw almond",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cup",
-        "name": "regular rolled oat",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "teaspoon",
-        "name": "peppermint extract",
-        "role": "flavor texture",
-        "quantity": 0.3
-      }
-    ],
-    "instructions": "\r\nAdd chocolate covered peanut butter cup and granulated artificial sweetener. Then add hartshorn, French vanilla cake mix and nonfat milk. Finally, join the following flavour textures: drops almond extract, salted peanut, pecan piece, drops almond extract, large chocolate chip cookie and mashed cooked pumpkin. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 349,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "coconut pecan bacon butter whole chocolate clove coating cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "regular rolled oat",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "date",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "package",
-        "name": "cashew half",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoon",
-        "name": "peppermint extract",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "Chinese five-spice powder",
-        "role": "flavor texture",
         "quantity": 0.5
       },
       {
-        "measure": "units",
-        "name": "vanilla creamy ready-to-spread frosting",
-        "role": "binding agent",
-        "quantity": 2.0
-      }
-    ],
-    "instructions": "\r\nAdd soybean oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add low sodium baking powder, yellow cake mix and beaten egg. Finally, join the following flavour textures: pecan piece, bacon, chocolate chip cookie, white chocolate baking square, bacon and chopped dried apples or fresh apple. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 348,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "coconut butter plain crushed chip bourbon de potato cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoon",
-        "name": "lime extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoon",
-        "name": "peppermint extract",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "miniature semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "minced fresh ginger root",
-        "role": "flavor texture",
-        "quantity": 0.7
-      }
-    ],
-    "instructions": "\r\nAdd vegan butter and SPLENDA\u00ae Sugar Blend. Then add hartshorn, matzo cake flour, soy milk and soy milk. Finally, join the following flavour textures: lime extract, bourbon, container prepared chocolate frosting, container prepared chocolate frosting and bacon. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 348,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "butter candy salt nut red cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "unsweetened apple juice concentrate",
+        "name": "container cream cheese frosting",
         "role": "binding agent",
         "quantity": 0.7
       },
       {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "scoops",
-        "name": "caramel bit",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "scoop",
-        "name": "dry-roasted peanut",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "finely-chopped walnut",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "can",
-        "name": "peeled and sliced apple",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "pound",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae Pure Semi-Sweet Chocolate Chip",
-        "role": "flavor texture",
-        "quantity": 0.5
-      }
-    ],
-    "instructions": "\r\nAdd melted butter, melted butter and demerara sugar. Then add active dry yeast, moist yellow cake mix, moist yellow cake mix and eggnog. Finally, join the following flavour textures: vanilla protein powder, finely ground walnut, red wine, sliced peach and drops red food coloring. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 347,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "butter whole chocolate pecan cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
         "measure": "units",
-        "name": "vanilla creamy ready-to-spread frosting",
-        "role": "binding agent",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "date",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "regular rolled oat",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "chopped raw almond",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "can",
-        "name": "raspberry flavored liqueur",
-        "role": "flavor texture",
-        "quantity": 0.2
-      }
-    ],
-    "instructions": "\r\nAdd vegetable oil and granulated artificial sweetener. Then add hartshorn, French vanilla cake mix and squares milk chocolate. Finally, join the following flavour textures: sliced almond, drops almond extract, pecan piece, drops almond extract, salted peanut and pecan piece. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 347,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "title": "orange liqueur pureed butter bourbon or cashew half cookies",
-    "ingredients": [
-      {
-        "measure": "teaspoon",
-        "name": "brewers' yeast",
-        "role": "rising agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
+        "name": "cold milk",
         "role": "binding agent",
         "quantity": 0.6
       },
       {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
+        "measure": "teaspoon",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.4
       },
       {
-        "measure": "package",
-        "name": "cashew half",
+        "measure": "cups",
+        "name": "anise seed",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 0.7
+      },
+      {
+        "measure": "pound",
+        "name": "whole walnut",
+        "role": "flavor texture",
+        "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "whole bran cereal",
+        "name": "thawed frozen whipped topping",
         "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "chopped raw almond",
-        "role": "flavor texture",
-        "quantity": 2.0
+        "quantity": 4.0
       },
       {
         "measure": "tablespoons",
-        "name": "miniature semisweet chocolate chip",
+        "name": "toffee baking bit",
         "role": "flavor texture",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "square semisweet chocolate",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "regular rolled oat",
-        "role": "flavor texture",
-        "quantity": 0.4
+        "name": "instant chocolate pudding mix",
+        "role": "flour",
+        "quantity": 1.0
       }
     ],
-    "instructions": "\r\nAdd powdered peanut butter and SPLENDA\u00ae Sugar Blend. Then add baking powder, candied mixed fruit and soy milk. Finally, join the following flavour textures: cashew half, bourbon, mini semi-sweet chocolate chip, bacon, bourbon, apricot jam and orange liqueur. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 347,
+    "title": "candy whole banana chip overripe cookies",
+    "instructions": "\nAdd olive oil and roll Pillsbury\u00ae refrigerated sugar cookie dough. Then add egg at room temperature, candy-coated milk chocolate piece, candy-coated milk chocolate piece, low sodium baking powder and Gold Medal\u00ae all-purpose flour. Finally, join the following flavour textures: chopped and toasted walnut, coconut-flavored rum, candy sprinkle, candy sprinkle and cacao nib. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 355,
     "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
+      "crunchiness": "normal",
+      "spread": "normal"
     }
   },
   {
-    "title": "sprinkle butter chocolate-hazelnut spread mini marshmallow candy cookies",
     "ingredients": [
       {
+        "measure": "cup",
+        "name": "butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 4.0
+      },
+      {
+        "measure": "units",
+        "name": "milk",
+        "role": "binding agent",
+        "quantity": 0.7
+      },
+      {
         "measure": "teaspoon",
-        "name": "brewers' yeast",
+        "name": "active dry yeast",
         "role": "rising agent",
         "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
+        "name": "pods durian",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "pound",
+        "name": "whole walnut",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "thawed frozen whipped topping",
+        "role": "flavor texture",
+        "quantity": 4.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "toffee baking bit",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "instant chocolate pudding mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "Crisco\u00ae Baking Sticks Butter Flavor All-Vegetable Shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "sour cream",
-        "role": "binding agent",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "red sugar sprinkle",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "whole bran cereal",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "pound",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae Pure Semi-Sweet Chocolate Chip",
+        "name": "finely grated lemon zest",
         "role": "flavor texture",
         "quantity": 0.5
-      },
-      {
-        "measure": "scoop",
-        "name": "dry-roasted peanut",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "chopped raw almond",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "units",
-        "name": "vanilla bean",
-        "role": "flavor texture",
-        "quantity": 0.2
       }
     ],
-    "instructions": "\r\nAdd vegan butter, vegan butter, super fine sugar and super fine sugar. Then add hartshorn, dark chocolate cake mix, dark chocolate cake mix and EAGLE BRAND\u00ae Sweetened Condensed Milk. Finally, join the following flavour textures: chocolate-hazelnut spread, mini marshmallow, white baking chocolate and grated zucchini. \r\nPut the dough in the oven from 3 to 25 minutes. Take it from the oven and let it cool down.",
-    "fitness": 346,
+    "title": "candy whole cacao nib chocolate cookies",
+    "instructions": "\nAdd olive oil and powdered sugar. Then add crushed pineapple with juice, squares milk chocolate, baking powder, soy flour and soy flour. Finally, join the following flavour textures: chopped pistachio nut, cinnamon whiskey, grated fresh ginger, cacao nib, grated fresh ginger, cinnamon whiskey and canned pumpkin. \nPut the dough in the oven from 2 to 30 minutes. Take it from the oven and let it cool down.",
+    "fitness": 355,
     "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
+      "crunchiness": "normal",
+      "spread": "normal"
     }
   }
 ]
