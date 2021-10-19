@@ -1,288 +1,276 @@
 [
   {
-    "title": "butter cookies",
+    "title": "cacao powder chocolate whole blanched almond coffee cookies",
     "ingredients": [
       {
         "measure": "cup",
-        "name": "powdered peanut butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "tablespoons",
-        "name": "lightly packed brown sugar",
-        "role": "sugar",
-        "quantity": 2.4
-      },
-      {
-        "measure": "cup",
-        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Delightfulls Mint Filled Morsel",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "dried orange peel",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "units",
-        "name": "green candied cherry",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "chopped pitted date",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "instructions": "\nAdd reduced fat margarine, sugar-free strawberry Jell-O\u00ae mix and white sugar. Then add JIF\u00ae Creamy Peanut Butter, active dry yeast, Make Ahead Cookie Mix and Make Ahead Cookie Mix. Finally, join the following flavour textures: dried sour cherry, hot fudge topping, prepared graham cracker crust and ground clove. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 261,
-    "properties": {
-      "crunchiness": "crunchy",
-      "spread": "normal"
-    }
-  },
-  {
-    "title": "butter cookies",
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "powdered peanut butter",
+        "name": "soybean oil",
         "role": "fat",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
+        "name": "sugar-frosted corn flake cereal",
         "role": "sugar",
-        "quantity": 0.3
+        "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "Sugar In The Raw\u00ae",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
+        "measure": "ounces",
+        "name": "fun size bars milk chocolate covered caramel and nougat candy",
         "role": "binding agent",
-        "quantity": 1.0
+        "quantity": 4.8
       },
       {
         "measure": "teaspoon",
-        "name": "quick rise yeast",
+        "name": "active dry yeast",
         "role": "rising agent",
-        "quantity": 0.2
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoons",
+        "name": "cooked and cooled quinoa",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
+        "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "McCormick\u00ae Ground Nutmeg",
+        "name": "potato starch",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 0.8
       },
       {
-        "measure": "cup",
-        "name": "lime zest",
+        "measure": "package",
+        "name": "maple-flavored extract",
         "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "quick-cooking Irish oatmeal",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "cups",
-        "name": "whole walnut",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "NESTLE\u00ae TOLL HOUSE\u00ae Semi-Sweet Chocolate Morsel",
         "role": "flavor texture",
-        "quantity": 0.9
+        "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd shortening for frying, dry sugar cookie mix and confectioners' sugar for rolling. Then add chocolate sweetened condensed milk, hartshorn and chai tea mix. Finally, join the following flavour textures: pitted ground cherry, candied pineapple, pitted ground cherry and brewed coffee. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 258,
+    "instructions": "\nAdd candy-coated peanut butter piece and powdered sugar. Then add sweetened condensed milk, hartshorn and candied mixed fruit. Finally, join the following flavour textures: whole blanched almond, potato starch, cacao powder, vegan chocolate chip and potato starch. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
+    "fitness": 266,
     "properties": {
       "crunchiness": "normal",
       "spread": "normal"
     }
   },
   {
-    "title": "butter cookies",
+    "title": "square unsweetened chocolate chocolate chai concentrate cookies",
     "ingredients": [
       {
         "measure": "cup",
-        "name": "powdered peanut butter",
+        "name": "soybean oil",
         "role": "fat",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "aspartame sweetener",
+        "name": "sugar-frosted corn flake cereal",
         "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "firmly packed light brown sugar",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "quick rise yeast",
-        "role": "rising agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "mini candy-coated chocolate piece",
-        "role": "flavor texture",
         "quantity": 0.5
       },
       {
-        "measure": "teaspoons",
-        "name": "candied pineapple ring",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "quick-cooking Irish oatmeal",
-        "role": "flavor texture",
-        "quantity": 0.1
+        "measure": "units",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.4
       },
       {
         "measure": "units",
-        "name": "canned pumpkin",
+        "name": "crushed pineapple with juice",
+        "role": "binding agent",
+        "quantity": 0.2
+      },
+      {
+        "measure": "teaspoon",
+        "name": "low sodium baking powder",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "ground almond",
         "role": "flavor texture",
         "quantity": 3.0
       },
       {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
         "quantity": 1.0
       },
       {
-        "measure": "cup",
-        "name": "lime zest",
+        "measure": "teaspoon",
+        "name": "bourbon",
         "role": "flavor texture",
         "quantity": 0.2
+      },
+      {
+        "measure": "teaspoon",
+        "name": "blue agave nectar",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "amaranth flour",
+        "role": "flour",
+        "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd crunchy peanut butter, light brown sugar and packed brown sugar. Then add vanilla creamy ready-to-spread frosting, hartshorn and cook-and-serve chocolate pudding mix. Finally, join the following flavour textures: crushed light potato chip, cornflake, chopped pistachio nut, crushed light potato chip and meringue powder. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 258,
+    "instructions": "\nAdd soybean oil and fructose sweetener. Then add cream cheese, chocolate sweetened condensed milk, brewers' yeast and chocolate chip cookie dough. Finally, join the following flavour textures: square unsweetened chocolate, condensed mincemeat, vanilla protein powder and chai concentrate. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
+    "fitness": 264,
     "properties": {
       "crunchiness": "normal",
       "spread": "normal"
     }
   },
   {
-    "title": "butter cookies",
+    "title": "unwrapped caramel candy dry wine root beer concentrate chocolate cookies",
     "ingredients": [
       {
         "measure": "cup",
-        "name": "powdered peanut butter",
+        "name": "soybean oil",
         "role": "fat",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "firmly packed light brown sugar",
+        "name": "sugar-frosted corn flake cereal",
         "role": "sugar",
-        "quantity": 0.3
+        "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "Sugar In The Raw\u00ae",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
+        "measure": "ounces",
+        "name": "fun size bars milk chocolate covered caramel and nougat candy",
         "role": "binding agent",
-        "quantity": 1.0
+        "quantity": 4.8
       },
       {
         "measure": "teaspoon",
-        "name": "hartshorn",
+        "name": "baking powder",
         "role": "rising agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoon",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae White Chocolate Baking Chip",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "mini candy-coated chocolate piece",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "pumpkin pie spice",
-        "role": "flavor texture",
-        "quantity": 30.0
+        "quantity": 0.3
       },
       {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
+        "name": "vegan semi-sweet chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "package",
+        "name": "maple-flavored extract",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "roll of apricot fruit leather",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "lime zest",
+        "name": "mini chocolate-coated peanut and nougat candy",
         "role": "flavor texture",
-        "quantity": 0.2
+        "quantity": 0.6
       }
     ],
-    "instructions": "\nAdd crunchy peanut butter, lightly packed brown sugar and coarse sugar crystal for sprinkling. Then add apple juice, quick rise yeast and pineapple flavored cake mix. Finally, join the following flavour textures: gluten-free vanilla extract, squares semisweet chocolate, vegan semi-sweet chocolate chip and whole clove. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd drop anise oil and red colored sugar. Then add corn syrup, corn syrup, hartshorn and cinnamon swirl cake mix. Finally, join the following flavour textures: unwrapped caramel candy, vegan chocolate chip, canned pumpkin and root beer concentrate. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
+    "fitness": 264,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "title": "chocolate cornflake candied root beer concentrate cookies",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "soybean oil",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "sugar-frosted corn flake cereal",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "crystallized sugar cane juice",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "warm water",
+        "role": "binding agent",
+        "quantity": 4.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "bourbon",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "colored miniature marshmallow",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "instructions": "\nAdd drop anise oil and red colored sugar. Then add skim milk or water, fun size bars milk chocolate covered caramel and nougat candy, hartshorn and cinnamon swirl cake mix. Finally, join the following flavour textures: chocolate frosting, molasses*, root beer concentrate and cornflake. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
     "fitness": 257,
     "properties": {
       "crunchiness": "normal",
@@ -290,64 +278,200 @@
     }
   },
   {
-    "title": "butter cookies",
+    "title": "crushed starch cereal anise coffee cornflakes potato chocolate cookies",
     "ingredients": [
       {
         "measure": "cup",
-        "name": "powdered peanut butter",
+        "name": "soybean oil",
         "role": "fat",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "firmly packed light brown sugar",
+        "name": "sugar-frosted corn flake cereal",
         "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
-        "role": "sugar",
-        "quantity": 0.3
+        "quantity": 0.5
       },
       {
         "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
+        "name": "warm water",
         "role": "binding agent",
-        "quantity": 1.0
+        "quantity": 4.0
+      },
+      {
+        "measure": "ounces",
+        "name": "fun size bars milk chocolate covered caramel and nougat candy",
+        "role": "binding agent",
+        "quantity": 4.8
       },
       {
         "measure": "teaspoon",
-        "name": "hartshorn",
+        "name": "baking powder",
         "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "poppy seed",
+        "role": "flavor texture",
         "quantity": 0.2
       },
       {
-        "measure": "small",
-        "name": "finely shredded orange peel",
-        "role": "flavor texture",
-        "quantity": 256.0
-      },
-      {
-        "measure": "cups",
-        "name": "chocolate sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
         "measure": "units",
-        "name": "raisin paste",
+        "name": "colored miniature marshmallow",
         "role": "flavor texture",
-        "quantity": 20.0
+        "quantity": 0.4
       },
       {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
+        "name": "unsweetened lemonade flavor drink mix",
         "role": "flour",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd vegan butter, sugar and crushed sugar-frosted corn flake cereal. Then add cherry juice, quick rise yeast and pie crust mix. Finally, join the following flavour textures: ground pecan, chopped macadamia nut, chopped macadamia nut, blanched almond and ground pecan. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd margarine or butter and red colored sugar. Then add fun size bars milk chocolate covered caramel and nougat candy, creamy peanut butter, hartshorn and cinnamon swirl cake mix. Finally, join the following flavour textures: canned pumpkin, root beer concentrate, dark chocolate chunk and cornflake. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
+    "fitness": 257,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "title": "crushed cornflakes cereal anise potato starch coffee chocolate cookies",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "soybean oil",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "sugar-frosted corn flake cereal",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "ounces",
+        "name": "fun size bars milk chocolate covered caramel and nougat candy",
+        "role": "binding agent",
+        "quantity": 4.8
+      },
+      {
+        "measure": "tablespoons",
+        "name": "warm water",
+        "role": "binding agent",
+        "quantity": 4.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "colored miniature marshmallow",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "roll of apricot fruit leather",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "poppy seed",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "instructions": "\nAdd candy-coated peanut butter piece and powdered sugar. Then add sweetened condensed milk, skim milk or water, hartshorn and candied mixed fruit. Finally, join the following flavour textures: miniature semi-sweet chocolate chip, chai concentrate, crushed cornflakes cereal, pitted date and potato starch. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
+    "fitness": 255,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "normal"
+    }
+  },
+  {
+    "title": "candy cornflake beer candied chocolate cookies",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "smooth natural peanut butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "confectioners' sugar",
+        "role": "sugar",
+        "quantity": 0.6
+      },
+      {
+        "measure": "units",
+        "name": "crystallized sugar cane juice",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "bourbon",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "units",
+        "name": "colored miniature marshmallow",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "almond paste",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "red gel food color",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "instructions": "\nAdd butter flavored extract and fructose. Then add honey, honey, hartshorn and brown rice flour. Finally, join the following flavour textures: molasses*, cornflake, golden flax seed and cinnamon red hot candy. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
     "fitness": 255,
     "properties": {
       "crunchiness": "normal",
@@ -355,70 +479,70 @@
     }
   },
   {
-    "title": "butter cookies",
+    "title": "candy salt chocolate coffee cookies",
     "ingredients": [
       {
         "measure": "cup",
-        "name": "powdered peanut butter",
+        "name": "soybean oil",
         "role": "fat",
         "quantity": 0.5
       },
       {
         "measure": "cup",
-        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
+        "name": "sugar-frosted corn flake cereal",
         "role": "sugar",
-        "quantity": 0.3
+        "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "confectioners' sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
+        "measure": "units",
+        "name": "sour cream",
         "role": "binding agent",
         "quantity": 1.0
       },
       {
         "measure": "teaspoon",
-        "name": "quick rise yeast",
+        "name": "low sodium baking powder",
         "role": "rising agent",
-        "quantity": 0.2
+        "quantity": 0.3
       },
       {
-        "measure": "cup",
-        "name": "mini candy-coated chocolate piece",
+        "measure": "package",
+        "name": "finely crumbled vanilla wafer",
         "role": "flavor texture",
-        "quantity": 0.5
+        "quantity": 0.3
       },
       {
-        "measure": "cup",
-        "name": "vanilla flavored confectioners' coating",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "dried orange peel",
+        "measure": "teaspoons",
+        "name": "cooked and cooled quinoa",
         "role": "flavor texture",
         "quantity": 1.0
       },
       {
-        "measure": "tablespoon",
-        "name": "toffee baking bit",
+        "measure": "cup",
+        "name": "roll of apricot fruit leather",
         "role": "flavor texture",
         "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "bourbon",
+        "role": "flavor texture",
+        "quantity": 0.2
       },
       {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
+        "name": "amaranth flour",
         "role": "flour",
         "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "crisp rice cereal",
+        "role": "flavor texture",
+        "quantity": 3.0
       }
     ],
-    "instructions": "\nAdd solid vegetable shortening, white sugar for rolling and sugar substitute with aspartame. Then add freshly squeezed orange juice, gluten-free baking powder and low calorie chocolate cake mix. Finally, join the following flavour textures: chocolate-mint layer candy, chopped candied cherry, chopped cooked bacon, hot fudge topping and finely crumbled vanilla wafer. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd candy-coated peanut butter piece and powdered sugar. Then add cream of tartar, cream of tartar, baking soda and blanched almond flour. Finally, join the following flavour textures: solid-pack pumpkin puree, whole blanched almond, chai concentrate, molasses* and whole blanched almond. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
     "fitness": 254,
     "properties": {
       "crunchiness": "normal",
@@ -426,293 +550,145 @@
     }
   },
   {
-    "title": "butter cookies",
+    "title": "candy nut cornflake sugar pine chocolate cookies",
     "ingredients": [
       {
         "measure": "cup",
-        "name": "powdered peanut butter",
+        "name": "smooth natural peanut butter",
         "role": "fat",
         "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "Sugar In The Raw\u00ae",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "quick rise yeast",
-        "role": "rising agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "small",
-        "name": "finely shredded orange peel",
-        "role": "flavor texture",
-        "quantity": 256.0
-      },
-      {
-        "measure": "cup",
-        "name": "mini candy-coated chocolate piece",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "quick-cooking Irish oatmeal",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "McCormick\u00ae Ground Nutmeg",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      }
-    ],
-    "instructions": "\nAdd miniature peanut butter cup, packed light brown sugar and cinnamon sugar. Then add LAND O LAKES\u00ae Egg, baking soda and Pillsbury BEST\u00ae All Purpose Flour. Finally, join the following flavour textures: unsweetened coconut, chopped date, port wine and cinnamon red hot candy. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 253,
-    "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
-    }
-  },
-  {
-    "title": "butter cookies",
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "powdered peanut butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "firmly packed light brown sugar",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "confectioners' sugar for decoration",
-        "role": "sugar",
-        "quantity": 2.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "hartshorn",
-        "role": "rising agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "red or green candied cherry",
-        "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "tablespoons",
-        "name": "chopped walnuts or pecan",
-        "role": "flavor texture",
-        "quantity": 6.0
-      },
-      {
-        "measure": "small",
-        "name": "finely shredded orange peel",
-        "role": "flavor texture",
-        "quantity": 256.0
-      },
-      {
-        "measure": "units",
-        "name": "raisin paste",
-        "role": "flavor texture",
-        "quantity": 20.0
-      },
-      {
-        "measure": "cups",
-        "name": "stone ground whole white wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "pound",
-        "name": "coconut",
-        "role": "flavor texture",
-        "quantity": 0.4
-      }
-    ],
-    "instructions": "\nAdd reduced fat margarine, superfine sugar, fructose sweetener and superfine sugar. Then add chopped chocolate covered malted milk ball, active dry yeast, active dry yeast and Make Ahead Cookie Mix. Finally, join the following flavour textures: tofu, refrigerated pizza dough, multigrain flake cereal and Chinese five-spice powder. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 253,
-    "properties": {
-      "crunchiness": "crunchy",
-      "spread": "normal"
-    }
-  },
-  {
-    "title": "butter cookies",
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "powdered peanut butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "Pillsbury\u00ae Ready to Bake!\u2122 sugar cookies",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "Irish cream liqueur",
-        "role": "binding agent",
-        "quantity": 4.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "hartshorn",
-        "role": "rising agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "chocolate sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cup",
-        "name": "McCormick\u00ae Ground Nutmeg",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "uncooked old-fashioned oat",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "box",
-        "name": "bread flour",
-        "role": "flour",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "packed light brown sugar",
-        "role": "sugar",
-        "quantity": 0.1
-      }
-    ],
-    "instructions": "\nAdd butter at room temperature, golden brown sugar and golden brown sugar. Then add hot milk, chocolate sweetened condensed milk, hartshorn, candied mixed citrus peel and candied mixed citrus peel. Finally, join the following flavour textures: coarsely crushed pretzel twists or stick, chocolate-mint layer candy, crushed cornflakes cereal and coarsely crushed pretzel twists or stick. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
-    "fitness": 252,
-    "properties": {
-      "crunchiness": "crunchy",
-      "spread": "normal"
-    }
-  },
-  {
-    "title": "butter cookies",
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "powdered peanut butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "aspartame sweetener",
-        "role": "sugar",
-        "quantity": 0.2
       },
       {
         "measure": "cup",
         "name": "confectioners' sugar",
         "role": "sugar",
-        "quantity": 0.2
+        "quantity": 0.6
       },
       {
-        "measure": "tablespoons",
-        "name": "frozen orange juice concentrate",
+        "measure": "units",
+        "name": "sour cream",
         "role": "binding agent",
         "quantity": 1.0
       },
       {
+        "measure": "cup",
+        "name": "drop fresh lemon juice",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
         "measure": "teaspoon",
-        "name": "quick rise yeast",
+        "name": "baking powder",
         "role": "rising agent",
-        "quantity": 0.2
+        "quantity": 0.3
       },
       {
-        "measure": "tablespoon",
-        "name": "HERSHEY'S\u00ae Chipits\u00ae White Chocolate Baking Chip",
+        "measure": "teaspoon",
+        "name": "large naval orange",
         "role": "flavor texture",
-        "quantity": 0.4
+        "quantity": 0.3
       },
       {
         "measure": "cup",
-        "name": "McCormick\u00ae Ground Nutmeg",
+        "name": "Ghirardelli\u00ae 60% Cacao Bittersweet Chocolate Baking Chip",
         "role": "flavor texture",
         "quantity": 0.2
       },
       {
-        "measure": "teaspoons",
-        "name": "candied pineapple ring",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
         "measure": "cup",
-        "name": "mini candy-coated chocolate piece",
+        "name": "roll of apricot fruit leather",
         "role": "flavor texture",
         "quantity": 0.5
       },
       {
+        "measure": "cup",
+        "name": "potato starch",
+        "role": "flavor texture",
+        "quantity": 0.8
+      },
+      {
         "measure": "cups",
-        "name": "stone ground whole white wheat flour",
+        "name": "unsweetened lemonade flavor drink mix",
         "role": "flour",
         "quantity": 1.0
       }
     ],
-    "instructions": "\nAdd smooth natural peanut butter, roll Pillsbury\u00ae refrigerated sugar cookie dough and colored sugar. Then add orange flower water, egg, hartshorn and Duncan Hines\u00ae Moist Deluxe\u00ae Swiss Chocolate Cake Mix. Finally, join the following flavour textures: chopped macadamia nut, multicolored sprinkle, almond extract and bacon bit. \nPut the dough in the oven from 2 to 60 minutes. Take it from the oven and let it cool down.",
+    "instructions": "\nAdd butter flavored extract and brown sugar. Then add real maple syrup, ice-cold water, hartshorn and cinnamon swirl cake mix. Finally, join the following flavour textures: Ghirardelli Semi-Sweet Chocolate Chip, pine nut, Mexican vanilla extract, Mexican vanilla extract, hemp seed and Ghirardelli 60% Cacao Bittersweet Chocolate Baking Chip. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
+    "fitness": 253,
+    "properties": {
+      "crunchiness": "normal",
+      "spread": "high"
+    }
+  },
+  {
+    "title": "fresh cranberry red popsicle stick coffee chocolate cookies",
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "soybean oil",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "sugar-frosted corn flake cereal",
+        "role": "sugar",
+        "quantity": 0.5
+      },
+      {
+        "measure": "ounces",
+        "name": "fun size bars milk chocolate covered caramel and nougat candy",
+        "role": "binding agent",
+        "quantity": 4.8
+      },
+      {
+        "measure": "units",
+        "name": "nonfat milk",
+        "role": "binding agent",
+        "quantity": 0.4
+      },
+      {
+        "measure": "package",
+        "name": "chocolate sandwich cookie with creme filling",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "maple-flavored extract",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "containers white frosting",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "candy-coated chocolate piece",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "units",
+        "name": "ground almond",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      }
+    ],
+    "instructions": "\nAdd soybean oil and fructose sweetener. Then add lime juice, cream cheese, low sodium baking powder and sourdough starter. Finally, join the following flavour textures: protein powder, cold coffee, fresh cranberry, popsicle stick and vanilla flavored confectioners' coating. \nPut the dough in the oven from 2 to 45 minutes. Take it from the oven and let it cool down.",
     "fitness": 251,
     "properties": {
-      "crunchiness": "crunchy",
-      "spread": "low"
+      "crunchiness": "normal",
+      "spread": "normal"
     }
   }
 ]
