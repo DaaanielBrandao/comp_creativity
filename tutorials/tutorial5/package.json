@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "tone": "^14.7.77"
+  },
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "type": "module"
+}
+
