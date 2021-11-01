@@ -2,350 +2,457 @@
   {
     "ingredients": [
       {
-        "measure": "cups",
-        "name": "cold butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
         "measure": "cup",
-        "name": "peanut butter cup",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "nonfat dry milk powder",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoon",
-        "name": "water",
-        "role": "binding agent",
+        "name": "mini semisweet chocolate chip",
+        "role": "flavor texture",
         "quantity": 0.4
-      },
-      {
-        "measure": "teaspoons",
-        "name": "hot water",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "tablespoons",
-        "name": "heavy cream",
-        "role": "binding agent",
-        "quantity": 1.8
-      },
-      {
-        "measure": "units",
-        "name": "Ghirardelli Milk Chocolate Chip",
-        "role": "binding agent",
-        "quantity": 0.5
       },
       {
         "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "chopped dried apricot",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "tablespoon",
-        "name": "chocolate-covered caramel candy",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "Kentucky bourbon",
-        "role": "flavor texture",
-        "quantity": 1.5
-      },
-      {
-        "measure": "cup",
-        "name": "multicolored candy sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "units",
-        "name": "kiwi",
+        "name": "grated lemon zest",
         "role": "flavor texture",
         "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "hot fudge topping",
+        "name": "chopped white chocolate",
         "role": "flavor texture",
-        "quantity": 0.8
+        "quantity": 0.7
+      },
+      {
+        "measure": "units",
+        "name": "saltine cracker",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "cup",
+        "name": "finely chopped blanched almond",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "frozen apple juice concentrate",
+        "role": "binding agent",
+        "quantity": 1.0
       },
       {
         "measure": "cups",
-        "name": "semisweet chocolate morsel",
-        "role": "flavor texture",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "butter flavored extract",
+        "role": "fat",
+        "quantity": 0.1
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
         "quantity": 2.0
       },
       {
         "measure": "cups",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "white cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "soy flour",
-        "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cups",
-        "name": "devil's food chocolate cake mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "instant pistachio pudding mix",
-        "role": "flour",
-        "quantity": 0.2
-      },
-      {
-        "measure": "package",
-        "name": "moist yellow cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      }
-    ],
-    "title": "chocolate chopped powder cookie cookies",
-    "instructions": "\nAdd cold butter, peanut butter cup, shortening, soft brown sugar and sugar. Then add nonfat dry milk powder, water, hot water, heavy cream, Ghirardelli Milk Chocolate Chip, baking powder, instant chocolate pudding mix, white cake mix, soy flour, devil's food chocolate cake mix, instant pistachio pudding mix and moist yellow cake mix. Finally, join the following flavour textures: chopped dried apricot, chocolate-covered caramel candy, Kentucky bourbon, multicolored candy sprinkle, kiwi, hot fudge topping and semisweet chocolate morsel. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 301,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "peanut butter cup",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 1.0
-      },
-      {
-        "measure": "tablespoon",
-        "name": "butter or margarine",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "turbinado sugar",
+        "name": "cane sugar",
         "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "nonfat dry milk powder",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "heavy cream",
-        "role": "binding agent",
-        "quantity": 1.8
-      },
-      {
-        "measure": "cup",
-        "name": "evaporated milk",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "Ghirardelli Milk Chocolate Chip",
-        "role": "binding agent",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "apple juice",
-        "role": "binding agent",
-        "quantity": 0.2
+        "quantity": 2.0
       },
       {
         "measure": "teaspoon",
         "name": "baking powder",
         "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "hot fudge topping",
-        "role": "flavor texture",
         "quantity": 0.8
       },
       {
         "measure": "cup",
-        "name": "miniature semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cups",
-        "name": "Kentucky bourbon",
-        "role": "flavor texture",
-        "quantity": 1.5
-      },
-      {
-        "measure": "units",
-        "name": "kiwi",
-        "role": "flavor texture",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "multicolored candy sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoon",
-        "name": "almond paste",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "units",
-        "name": "drop maple flavored extract",
+        "name": "chopped apple",
         "role": "flavor texture",
         "quantity": 0.5
-      },
-      {
-        "measure": "teaspoon",
-        "name": "apple pie spice",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoons",
-        "name": "maple-flavored extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "instant pistachio pudding mix",
-        "role": "flour",
-        "quantity": 0.2
-      },
-      {
-        "measure": "package",
-        "name": "white cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cups",
-        "name": "devil's food chocolate cake mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "all purpose flour",
-        "role": "flour",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "lightly packed brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
       }
     ],
-    "title": "kiwi powder almond paste apple pie spice multicolored candy sprinkle chocolate cookies",
-    "instructions": "\nAdd shortening, peanut butter cup, solid vegetable oil-butter spread, butter or margarine, turbinado sugar, soft brown sugar and lightly packed brown sugar. Then add nonfat dry milk powder, heavy cream, evaporated milk, Ghirardelli Milk Chocolate Chip, apple juice, baking powder, instant pistachio pudding mix, white cake mix, devil's food chocolate cake mix, instant chocolate pudding mix and all purpose flour. Finally, join the following flavour textures: hot fudge topping, miniature semisweet chocolate chip, Kentucky bourbon, kiwi, multicolored candy sprinkle, almond paste, drop maple flavored extract, apple pie spice and maple-flavored extract. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
+    "title": "grated oat lemon golden saltine chopped cracker raisin bran zest cookies",
+    "instructions": "\r\nAdd butter flavored extract, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, melted butter and cane sugar. Then add frozen apple juice concentrate, unsweetened lemonade flavor drink mix, chocolate cake mix and baking powder. Finally, join the following flavour textures: mini semisweet chocolate chip, grated lemon zest, chopped white chocolate, saltine cracker, finely chopped blanched almond and chopped apple. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
     "fitness": 298,
     "properties": {
-      "crunchiness": "normal",
-      "spread": "low"
+      "crunchiness": "crunchy",
+      "spread": "high"
     }
   },
   {
     "ingredients": [
       {
-        "measure": "fluid",
-        "name": "butterscotch schnapp",
-        "role": "fat",
+        "measure": "cup",
+        "name": "coarsely chopped macadamia nut",
+        "role": "flavor texture",
         "quantity": 0.5
       },
       {
+        "measure": "units",
+        "name": "saltine cracker",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "grated lemon zest",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "jars",
+        "name": "carrot baby food",
+        "role": "flavor texture",
+        "quantity": 0.9
+      },
+      {
         "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
+        "name": "flax seed meal",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "tablespoon",
+        "name": "cinnamon whiskey",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoons",
+        "name": "freshly squeezed lemon juice",
+        "role": "binding agent",
+        "quantity": 1.8
+      },
+      {
+        "measure": "units",
+        "name": "frozen apple juice concentrate",
+        "role": "binding agent",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "smooth peanut butter",
+        "name": "sifted whole wheat flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "fruit flavored Jell-O\u00ae mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "butter",
         "role": "fat",
         "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "non-dairy butter",
+        "role": "fat",
+        "quantity": 0.2
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
+        "quantity": 2.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.8
+      }
+    ],
+    "title": "grated grated lemon zest carrot baby food chopped coarsely chopped macadamia nut cookies",
+    "instructions": "\r\nAdd butter, non-dairy butter, melted butter, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip and cane sugar. Then add freshly squeezed lemon juice, frozen apple juice concentrate, sifted whole wheat flour, fruit flavored Jell-O\u00ae mix and baking powder. Finally, join the following flavour textures: coarsely chopped macadamia nut, saltine cracker, grated lemon zest, carrot baby food, flax seed meal and cinnamon whiskey. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 291,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "tablespoon",
+        "name": "cinnamon whiskey",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "whole almond",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "ground flaxseed",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "finely crushed chocolate wafer cookie",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "units",
+        "name": "whole orange",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "chopped white chocolate",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "teaspoon",
+        "name": "grated lemon zest",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "units",
+        "name": "saltine cracker",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "cup",
+        "name": "non-fat plain yogurt",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "units",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "cup",
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "fruit flavored Jell-O\u00ae mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "non-dairy butter",
+        "role": "fat",
+        "quantity": 4.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "butter flavored extract",
+        "role": "fat",
+        "quantity": 0.1
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.8
+      }
+    ],
+    "title": "grated saltine cracker finely crushed chocolate wafer cookie chopped ground flaxseed cinnamon whiskey cookies",
+    "instructions": "\r\nAdd melted butter, non-dairy butter, butter flavored extract, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip and cane sugar. Then add non-fat plain yogurt, egg, orange juice, unsweetened lemonade flavor drink mix, fruit flavored Jell-O\u00ae mix, chocolate cake mix and baking powder. Finally, join the following flavour textures: cinnamon whiskey, whole almond, ground flaxseed, finely crushed chocolate wafer cookie, whole orange, chopped white chocolate, grated lemon zest and saltine cracker. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 290,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "teaspoon",
+        "name": "ground allspice",
+        "role": "flavor texture",
+        "quantity": 0.1
+      },
+      {
+        "measure": "teaspoons",
+        "name": "ground ginger",
+        "role": "flavor texture",
+        "quantity": 0.9
+      },
+      {
+        "measure": "cup",
+        "name": "roasted hazelnut",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "dash",
+        "name": "ground chia seed",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "drops food coloring",
+        "role": "flavor texture",
+        "quantity": 2.0
+      },
+      {
+        "measure": "cup",
+        "name": "finely shredded carrot",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "uncooked old-fashioned oat",
+        "role": "flavor texture",
+        "quantity": 1.4
+      },
+      {
+        "measure": "cup",
+        "name": "chocolate covered raisin",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "sour milk",
+        "role": "binding agent",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "frozen apple juice concentrate",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "cups",
+        "name": "fruit flavored Jell-O\u00ae mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "sifted whole wheat flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "gluten-free baking mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "non-dairy butter",
+        "role": "fat",
+        "quantity": 4.0
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
+        "quantity": 2.0
       },
       {
         "measure": "cups",
@@ -354,148 +461,421 @@
         "quantity": 0.5
       },
       {
-        "measure": "tablespoons",
-        "name": "red sugar sprinkle",
+        "measure": "cup",
+        "name": "coarse sugar",
         "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "confectioners' sugar for rolling",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "turbinado sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "sugar",
-        "role": "sugar",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "Karo\u00ae Dark Corn Syrup",
-        "role": "binding agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "units",
-        "name": "apple juice",
-        "role": "binding agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "nonfat dry milk powder",
-        "role": "binding agent",
-        "quantity": 0.3
+        "quantity": 0.1
       },
       {
         "measure": "cups",
-        "name": "reduced-sugar maple syrup",
-        "role": "binding agent",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "gluten-free baking powder",
+        "role": "rising agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "active dry yeast",
+        "role": "rising agent",
+        "quantity": 0.3
+      }
+    ],
+    "title": "finely shredded carrot oat chocolate ground ginger chopped uncooked old-fashioned oat roasted hazelnut cookies",
+    "instructions": "\r\nAdd HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, non-dairy butter, melted butter, cold butter, coarse sugar and cane sugar. Then add orange juice, sour milk, frozen apple juice concentrate, egg, fruit flavored Jell-O\u00ae mix, chocolate cake mix, unsweetened lemonade flavor drink mix, sifted whole wheat flour, gluten-free baking mix, gluten-free baking powder and active dry yeast. Finally, join the following flavour textures: ground allspice, ground ginger, roasted hazelnut, ground chia seed, drops food coloring, finely shredded carrot, uncooked old-fashioned oat and chocolate covered raisin. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 289,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "low"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "package",
+        "name": "miniature semisweet chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "teaspoon",
+        "name": "chopped dried mango",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "cocoa powder",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "teaspoon",
+        "name": "whole clove",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "flax seed meal",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "jars",
+        "name": "carrot baby food",
+        "role": "flavor texture",
         "quantity": 0.9
       },
       {
-        "measure": "tablespoons",
-        "name": "heavy cream",
+        "measure": "cups",
+        "name": "drops food coloring",
+        "role": "flavor texture",
+        "quantity": 2.0
+      },
+      {
+        "measure": "cup",
+        "name": "chopped white chocolate",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "units",
+        "name": "saltine cracker",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "units",
+        "name": "frozen apple juice concentrate",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "chocolate cream-filled sandwich cookie",
+        "role": "binding agent",
+        "quantity": 5.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "freshly squeezed lemon juice",
         "role": "binding agent",
         "quantity": 1.8
       },
       {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "vanilla flavored cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
         "measure": "cup",
-        "name": "dark corn syrup",
-        "role": "binding agent",
+        "name": "sifted whole wheat flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "cake mix with candy bits",
+        "role": "flour",
+        "quantity": 0.4
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "cups",
+        "name": "cold butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoon",
+        "name": "butter flavored extract",
+        "role": "fat",
         "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
+        "quantity": 2.0
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
       },
       {
         "measure": "teaspoon",
         "name": "baking powder",
         "role": "rising agent",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cup",
+        "name": "brown rice flour",
+        "role": "flour",
+        "quantity": 0.2
+      }
+    ],
+    "title": "whole chocolate saltine flax chopped seed meal cookies",
+    "instructions": "\r\nAdd HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, cold butter, butter flavored extract, melted butter and cane sugar. Then add frozen apple juice concentrate, chocolate cream-filled sandwich cookie, freshly squeezed lemon juice, unsweetened lemonade flavor drink mix, vanilla flavored cake mix, sifted whole wheat flour, cake mix with candy bits, baking powder and brown rice flour. Finally, join the following flavour textures: miniature semisweet chocolate chip, chopped dried mango, cocoa powder, whole clove, flax seed meal, carrot baby food, drops food coloring, chopped white chocolate and saltine cracker. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 287,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "uncooked old-fashioned oat",
+        "role": "flavor texture",
+        "quantity": 1.4
+      },
+      {
+        "measure": "teaspoon",
+        "name": "mint extract",
+        "role": "flavor texture",
         "quantity": 0.7
       },
       {
-        "measure": "cups",
-        "name": "candied lemon peel",
+        "measure": "cup",
+        "name": "roasted hazelnut",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "chopped golden raisin",
+        "role": "flavor texture",
+        "quantity": 0.9
+      },
+      {
+        "measure": "tablespoon",
+        "name": "cinnamon whiskey",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "finely chopped blanched almond",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "units",
+        "name": "saltine cracker",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "cup",
+        "name": "chopped white chocolate",
         "role": "flavor texture",
         "quantity": 0.7
       },
       {
         "measure": "units",
-        "name": "assorted stone fruit jam such as peach",
+        "name": "frozen apple juice concentrate",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "large egg yolk",
+        "role": "binding agent",
+        "quantity": 4.5
+      },
+      {
+        "measure": "units",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "cup",
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cake mix with candy bits",
+        "role": "flour",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "dry pancake mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "fruit flavored Jell-O\u00ae mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "non-dairy butter",
+        "role": "fat",
+        "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
+        "quantity": 2.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "coarse sugar crystal",
+        "role": "sugar",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cup",
+        "name": "fruit preserve",
+        "role": "flavor texture",
+        "quantity": 0.3
+      }
+    ],
+    "title": "oat mint extract chopped chopped golden raisin roasted hazelnut chopped white chocolate cookies",
+    "instructions": "\r\nAdd non-dairy butter, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, melted butter, coarse sugar crystal and cane sugar. Then add frozen apple juice concentrate, large egg yolk, egg, orange juice, cake mix with candy bits, dry pancake mix, fruit flavored Jell-O\u00ae mix and baking powder. Finally, join the following flavour textures: uncooked old-fashioned oat, mint extract, roasted hazelnut, chopped golden raisin, cinnamon whiskey, finely chopped blanched almond, saltine cracker, chopped white chocolate and fruit preserve. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 286,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "coarsely chopped macadamia nut",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "chocolate covered raisin",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cups",
+        "name": "miniature chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "cocoa powder",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "mini semisweet chocolate chip",
         "role": "flavor texture",
         "quantity": 0.4
       },
       {
         "measure": "cup",
-        "name": "chopped peanut",
+        "name": "quinoa",
         "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "units",
-        "name": "drop maple flavored extract",
-        "role": "flavor texture",
-        "quantity": 0.5
-      },
-      {
-        "measure": "units",
-        "name": "garbanzo bean",
-        "role": "flavor texture",
-        "quantity": 4.0
-      },
-      {
-        "measure": "tablespoon",
-        "name": "chocolate-covered caramel candy",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "quantity": 0.6
       },
       {
         "measure": "cup",
-        "name": "multicolored candy sprinkle",
+        "name": "solid pack pumpkin puree",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "unsweetened cocoa powder",
         "role": "flavor texture",
         "quantity": 0.1
       },
       {
+        "measure": "jars",
+        "name": "carrot baby food",
+        "role": "flavor texture",
+        "quantity": 0.9
+      },
+      {
         "measure": "units",
-        "name": "large chocolate chip cookie",
-        "role": "flavor texture",
-        "quantity": 96.0
+        "name": "lukewarm milk",
+        "role": "binding agent",
+        "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "cinnamon red hot candy",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "small",
-        "name": "finely ground almond",
-        "role": "flavor texture",
-        "quantity": 16.0
+        "name": "non-fat plain yogurt",
+        "role": "binding agent",
+        "quantity": 0.1
       },
       {
         "measure": "cup",
-        "name": "hot fudge topping",
-        "role": "flavor texture",
-        "quantity": 0.8
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "teaspoons",
+        "name": "freshly squeezed lemon juice",
+        "role": "binding agent",
+        "quantity": 1.8
       },
       {
         "measure": "package",
-        "name": "cook-and-serve chocolate pudding mix",
+        "name": "chocolate cake mix",
         "role": "flour",
         "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "sifted whole wheat flour",
+        "role": "flour",
+        "quantity": 1.0
       },
       {
         "measure": "cups",
@@ -504,117 +884,379 @@
         "quantity": 0.9
       },
       {
-        "measure": "package",
-        "name": "white cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "package",
-        "name": "orange cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
         "measure": "cups",
-        "name": "moist yellow cake mix",
-        "role": "flour",
-        "quantity": 1.0
+        "name": "butter cake mix",
+        "role": "fat",
+        "quantity": 0.6
       },
       {
         "measure": "cup",
-        "name": "bittersweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.5
+        "name": "non-dairy butter",
+        "role": "fat",
+        "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "butter flavored extract",
+        "role": "fat",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cups",
+        "name": "coconut sugar",
+        "role": "sugar",
+        "quantity": 0.7
       }
     ],
-    "title": "powder chopped peanut garbanzo bean hot fudge topping multicolored candy sprinkle chocolate chocolate-covered caramel candy assorted stone fruit jam such as peach cookies",
-    "instructions": "\nAdd butterscotch schnapp, solid vegetable oil-butter spread, smooth peanut butter, cold butter, red sugar sprinkle, confectioners' sugar for rolling, turbinado sugar, soft brown sugar and sugar. Then add Karo\u00ae Dark Corn Syrup, apple juice, nonfat dry milk powder, reduced-sugar maple syrup, heavy cream, dark corn syrup, baking powder, cook-and-serve chocolate pudding mix, almond flour, white cake mix, orange cake mix and moist yellow cake mix. Finally, join the following flavour textures: candied lemon peel, assorted stone fruit jam such as peach, chopped peanut, drop maple flavored extract, garbanzo bean, chocolate-covered caramel candy, multicolored candy sprinkle, large chocolate chip cookie, cinnamon red hot candy, finely ground almond, hot fudge topping and bittersweet chocolate chip. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 294,
+    "title": "coarsely chopped chocolate almond cookies",
+    "instructions": "\r\nAdd butter cake mix, non-dairy butter, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, butter flavored extract, cane sugar and coconut sugar. Then add lukewarm milk, non-fat plain yogurt, orange juice, freshly squeezed lemon juice, chocolate cake mix, sifted whole wheat flour, almond flour and baking powder. Finally, join the following flavour textures: coarsely chopped macadamia nut, chocolate covered raisin, miniature chocolate chip, cocoa powder, mini semisweet chocolate chip, quinoa, solid pack pumpkin puree, unsweetened cocoa powder and carrot baby food. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 283,
     "properties": {
-      "crunchiness": "normal",
-      "spread": "normal"
+      "crunchiness": "chewey",
+      "spread": "high"
     }
   },
   {
     "ingredients": [
       {
         "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 1.0
+        "name": "mini semisweet chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.4
       },
       {
         "measure": "tablespoon",
-        "name": "butter or margarine",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "peanut butter cup",
-        "role": "fat",
+        "name": "cinnamon whiskey",
+        "role": "flavor texture",
         "quantity": 0.3
       },
       {
         "measure": "cup",
-        "name": "softened butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "turbinado sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "confectioners' sugar for rolling",
-        "role": "sugar",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "dry sugar cookie mix",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "reduced-sugar maple syrup",
-        "role": "binding agent",
-        "quantity": 0.9
-      },
-      {
-        "measure": "units",
-        "name": "egg at room temperature",
-        "role": "binding agent",
-        "quantity": 1.3
-      },
-      {
-        "measure": "teaspoons",
-        "name": "hot water",
-        "role": "binding agent",
+        "name": "chopped white chocolate",
+        "role": "flavor texture",
         "quantity": 0.7
       },
       {
         "measure": "cup",
-        "name": "Irish cream liqueur",
+        "name": "chocolate covered raisin",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cup",
+        "name": "cocoa powder",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "oatmeal cookie",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "cup",
+        "name": "quinoa",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "mint extract",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "cup",
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "units",
+        "name": "lukewarm milk",
+        "role": "binding agent",
+        "quantity": 1.0
+      },
+      {
+        "measure": "units",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "package",
+        "name": "chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "cake mix with candy bits",
+        "role": "flour",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cup",
+        "name": "sifted whole wheat flour",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "melted butter",
+        "role": "fat",
+        "quantity": 2.0
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "butter flavored extract",
+        "role": "fat",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cups",
+        "name": "butter cake mix",
+        "role": "fat",
+        "quantity": 0.6
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.8
+      },
+      {
+        "measure": "cup",
+        "name": "dried sour cherry",
+        "role": "flavor texture",
+        "quantity": 0.4
+      }
+    ],
+    "title": "oat oatmeal cookie cocoa powder chopped raisin mini semisweet chocolate chip chopped white chocolate cookies",
+    "instructions": "\r\nAdd melted butter, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, butter flavored extract, butter cake mix and cane sugar. Then add orange juice, lukewarm milk, egg, chocolate cake mix, unsweetened lemonade flavor drink mix, cake mix with candy bits, sifted whole wheat flour and baking powder. Finally, join the following flavour textures: mini semisweet chocolate chip, cinnamon whiskey, chopped white chocolate, chocolate covered raisin, cocoa powder, oatmeal cookie, quinoa, mint extract and dried sour cherry. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 282,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "normal"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cups",
+        "name": "drops food coloring",
+        "role": "flavor texture",
+        "quantity": 2.0
+      },
+      {
+        "measure": "tablespoon",
+        "name": "Ghirardelli\u00ae Unsweetened Cocoa Powder",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "oatmeal cookie",
+        "role": "flavor texture",
+        "quantity": 3.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "grated lemon zest",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "units",
+        "name": "saltine cracker",
+        "role": "flavor texture",
+        "quantity": 30.0
+      },
+      {
+        "measure": "cup",
+        "name": "coarsely chopped macadamia nut",
+        "role": "flavor texture",
+        "quantity": 0.5
+      },
+      {
+        "measure": "dash",
+        "name": "ground chia seed",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cup",
+        "name": "maple syrup",
         "role": "binding agent",
         "quantity": 0.1
       },
       {
         "measure": "cup",
-        "name": "nonfat dry milk powder",
+        "name": "non-fat plain yogurt",
+        "role": "binding agent",
+        "quantity": 0.1
+      },
+      {
+        "measure": "cup",
+        "name": "plain nonfat yogurt",
         "role": "binding agent",
         "quantity": 0.3
+      },
+      {
+        "measure": "package",
+        "name": "vanilla flavored cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "package",
+        "name": "chocolate cake mix",
+        "role": "flour",
+        "quantity": 0.3
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
+      },
+      {
+        "measure": "package",
+        "name": "butter pecan cake mix",
+        "role": "fat",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cups",
+        "name": "cold butter",
+        "role": "fat",
+        "quantity": 0.5
+      },
+      {
+        "measure": "cups",
+        "name": "cane sugar",
+        "role": "sugar",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
+        "quantity": 0.8
+      }
+    ],
+    "title": "chocolate coloring saltine golden chopped cracker food drops covered raisin cookies",
+    "instructions": "\r\nAdd HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, butter pecan cake mix, cold butter and cane sugar. Then add orange juice, maple syrup, non-fat plain yogurt, plain nonfat yogurt, vanilla flavored cake mix, chocolate cake mix and baking powder. Finally, join the following flavour textures: drops food coloring, Ghirardelli\u00ae Unsweetened Cocoa Powder, oatmeal cookie, grated lemon zest, saltine cracker, coarsely chopped macadamia nut and ground chia seed. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
+    "fitness": 282,
+    "properties": {
+      "crunchiness": "crunchy",
+      "spread": "high"
+    }
+  },
+  {
+    "ingredients": [
+      {
+        "measure": "cup",
+        "name": "chopped golden raisin",
+        "role": "flavor texture",
+        "quantity": 0.9
+      },
+      {
+        "measure": "teaspoon",
+        "name": "mint extract",
+        "role": "flavor texture",
+        "quantity": 0.7
+      },
+      {
+        "measure": "package",
+        "name": "miniature semisweet chocolate chip",
+        "role": "flavor texture",
+        "quantity": 0.4
+      },
+      {
+        "measure": "cups",
+        "name": "uncooked old-fashioned oat",
+        "role": "flavor texture",
+        "quantity": 1.4
+      },
+      {
+        "measure": "units",
+        "name": "large jalapeno pepper",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "quinoa",
+        "role": "flavor texture",
+        "quantity": 0.6
+      },
+      {
+        "measure": "teaspoon",
+        "name": "whole clove",
+        "role": "flavor texture",
+        "quantity": 1.0
+      },
+      {
+        "measure": "cup",
+        "name": "cocoa powder",
+        "role": "flavor texture",
+        "quantity": 0.3
+      },
+      {
+        "measure": "cup",
+        "name": "flax seed meal",
+        "role": "flavor texture",
+        "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "large egg yolk",
+        "role": "binding agent",
+        "quantity": 4.5
       },
       {
         "measure": "cup",
@@ -623,123 +1265,58 @@
         "quantity": 0.5
       },
       {
-        "measure": "tablespoons",
-        "name": "heavy cream",
+        "measure": "units",
+        "name": "egg",
+        "role": "binding agent",
+        "quantity": 2.0
+      },
+      {
+        "measure": "teaspoons",
+        "name": "freshly squeezed lemon juice",
         "role": "binding agent",
         "quantity": 1.8
       },
       {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "package",
-        "name": "chocolate sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
         "measure": "cup",
-        "name": "miniature semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "chia seed",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "units",
-        "name": "large chocolate chip cookie",
-        "role": "flavor texture",
-        "quantity": 96.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "cider vinegar",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "tablespoon",
-        "name": "chocolate-covered caramel candy",
-        "role": "flavor texture",
-        "quantity": 1.0
+        "name": "orange juice",
+        "role": "binding agent",
+        "quantity": 0.5
       },
       {
         "measure": "cups",
-        "name": "Kentucky bourbon",
-        "role": "flavor texture",
-        "quantity": 1.5
-      },
-      {
-        "measure": "package",
-        "name": "orange cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "mesquite flour",
-        "role": "flour",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "moist yellow cake mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "instant chocolate pudding mix",
+        "name": "dry pancake mix",
         "role": "flour",
         "quantity": 1.0
       },
       {
         "measure": "cup",
-        "name": "soy flour",
+        "name": "cake mix with candy bits",
         "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cups",
-        "name": "whole-wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "tablespoon",
-        "name": "ground anise seed",
-        "role": "flavor texture",
         "quantity": 0.4
-      }
-    ],
-    "title": "miniature semisweet chocolate chip powder chip chocolate sprinkle chocolate chocolate-covered caramel candy cookies",
-    "instructions": "\nAdd solid vegetable oil-butter spread, butter or margarine, peanut butter cup, softened butter, turbinado sugar, confectioners' sugar for rolling, dry sugar cookie mix and soft brown sugar. Then add reduced-sugar maple syrup, egg at room temperature, hot water, Irish cream liqueur, nonfat dry milk powder, creamy salad dressing, heavy cream, baking powder, orange cake mix, mesquite flour, moist yellow cake mix, instant chocolate pudding mix, soy flour and whole-wheat flour. Finally, join the following flavour textures: chocolate sprinkle, miniature semisweet chocolate chip, chia seed, large chocolate chip cookie, cider vinegar, chocolate-covered caramel candy, Kentucky bourbon and ground anise seed. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 293,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
+      },
       {
-        "measure": "cup",
-        "name": "softened butter",
-        "role": "fat",
+        "measure": "cups",
+        "name": "unsweetened lemonade flavor drink mix",
+        "role": "flour",
+        "quantity": 1.0
+      },
+      {
+        "measure": "package",
+        "name": "chocolate cake mix",
+        "role": "flour",
         "quantity": 0.3
       },
       {
         "measure": "cup",
-        "name": "clarified butter",
+        "name": "non-dairy butter",
         "role": "fat",
         "quantity": 0.2
+      },
+      {
+        "measure": "tablespoons",
+        "name": "HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip",
+        "role": "fat",
+        "quantity": 6.0
       },
       {
         "measure": "cups",
@@ -748,1015 +1325,36 @@
         "quantity": 0.5
       },
       {
-        "measure": "cup",
-        "name": "turbinado sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoons",
-        "name": "hot water",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "evaporated milk",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoon",
-        "name": "lukewarm water",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "Karo\u00ae Dark Corn Syrup",
-        "role": "binding agent",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "reduced-fat creamy peanut butter",
-        "role": "binding agent",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "units",
-        "name": "mini vanilla wafer cookie",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "small",
-        "name": "finely ground almond",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
-        "measure": "small",
-        "name": "peppermint patty",
-        "role": "flavor texture",
-        "quantity": 12.0
-      },
-      {
-        "measure": "units",
-        "name": "McCormick\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "roasted Spanish peanut",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cup",
-        "name": "multicolored candy sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "miniature semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoon",
-        "name": "dried apricot",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "teaspoons",
-        "name": "lime zest",
-        "role": "flavor texture",
-        "quantity": 1.1
-      },
-      {
-        "measure": "pound",
-        "name": "candied pineapple",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "package",
-        "name": "cook-and-serve chocolate pudding mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "candied mixed fruit",
-        "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "all purpose flour",
-        "role": "flour",
-        "quantity": 0.6
-      },
-      {
-        "measure": "package",
-        "name": "sorghum flour",
-        "role": "flour",
-        "quantity": 0.2
-      },
-      {
-        "measure": "package",
-        "name": "quinoa flour",
-        "role": "flour",
-        "quantity": 0.3
-      }
-    ],
-    "title": "powder cookie pineapple candied chip chocolate cookies",
-    "instructions": "\nAdd softened butter, clarified butter, cold butter, turbinado sugar and soft brown sugar. Then add hot water, evaporated milk, lukewarm water, Karo\u00ae Dark Corn Syrup, reduced-fat creamy peanut butter, baking powder, cook-and-serve chocolate pudding mix, candied mixed fruit, all purpose flour, sorghum flour and quinoa flour. Finally, join the following flavour textures: mini vanilla wafer cookie, finely ground almond, peppermint patty, McCormick\u00ae Pure Vanilla Extract, roasted Spanish peanut, multicolored candy sprinkle, miniature semisweet chocolate chip, red food coloring, lime zest and candied pineapple. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 287,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "normal"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "clarified butter",
-        "role": "fat",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cups",
-        "name": "cold butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "smooth peanut butter",
-        "role": "fat",
-        "quantity": 0.4
-      },
-      {
-        "measure": "tablespoon",
-        "name": "coarse granulated sugar",
-        "role": "sugar",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
         "measure": "tablespoons",
-        "name": "heavy cream",
-        "role": "binding agent",
-        "quantity": 1.8
-      },
-      {
-        "measure": "cup",
-        "name": "evaporated milk",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "teaspoons",
-        "name": "hot water",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "whole milk",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cups",
-        "name": "reduced-sugar maple syrup",
-        "role": "binding agent",
-        "quantity": 0.9
-      },
-      {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "units",
-        "name": "paprika",
-        "role": "flavor texture",
-        "quantity": 30.0
-      },
-      {
-        "measure": "teaspoons",
-        "name": "lime zest",
-        "role": "flavor texture",
-        "quantity": 1.1
-      },
-      {
-        "measure": "cup",
-        "name": "hot fudge topping",
-        "role": "flavor texture",
+        "name": "coarse sugar crystal",
+        "role": "sugar",
         "quantity": 0.8
       },
       {
         "measure": "cups",
-        "name": "crushed pineapple",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoons",
-        "name": "maple-flavored extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "pound",
-        "name": "candied pineapple",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "small",
-        "name": "peppermint patty",
-        "role": "flavor texture",
-        "quantity": 12.0
-      },
-      {
-        "measure": "cups",
-        "name": "semisweet chocolate morsel",
-        "role": "flavor texture",
+        "name": "cane sugar",
+        "role": "sugar",
         "quantity": 2.0
       },
       {
-        "measure": "tablespoons",
-        "name": "dried fig",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "whole-wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "cook-and-serve chocolate pudding mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "package",
-        "name": "orange cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "package",
-        "name": "quinoa flour",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cups",
-        "name": "almond flour",
-        "role": "flour",
-        "quantity": 0.9
-      }
-    ],
-    "title": "chocolate red powder candied cookies",
-    "instructions": "\nAdd clarified butter, shortening, cold butter, smooth peanut butter, coarse granulated sugar and soft brown sugar. Then add heavy cream, evaporated milk, hot water, whole milk, reduced-sugar maple syrup, baking powder, whole-wheat flour, cook-and-serve chocolate pudding mix, orange cake mix, quinoa flour and almond flour. Finally, join the following flavour textures: paprika, lime zest, hot fudge topping, crushed pineapple, maple-flavored extract, candied pineapple, peppermint patty, semisweet chocolate morsel and dried fig. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 286,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "tablespoon",
-        "name": "butter or margarine",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "shortening",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "peanut butter cup",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "pearl sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "turbinado sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "dry sugar cookie mix",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoons",
-        "name": "heavy cream",
-        "role": "binding agent",
-        "quantity": 1.8
-      },
-      {
-        "measure": "teaspoons",
-        "name": "hot water",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cups",
-        "name": "reduced-sugar maple syrup",
-        "role": "binding agent",
-        "quantity": 0.9
-      },
-      {
-        "measure": "cup",
-        "name": "nonfat dry milk powder",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "warm milk",
-        "role": "binding agent",
+        "measure": "teaspoon",
+        "name": "baking powder",
+        "role": "rising agent",
         "quantity": 0.8
       },
       {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "small",
-        "name": "finely ground almond",
-        "role": "flavor texture",
-        "quantity": 16.0
-      },
-      {
-        "measure": "small",
-        "name": "peppermint patty",
-        "role": "flavor texture",
-        "quantity": 12.0
-      },
-      {
-        "measure": "units",
-        "name": "mini vanilla wafer cookie",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "multicolored candy sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "pound",
-        "name": "candied pineapple",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "units",
-        "name": "McCormick\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "Kentucky bourbon",
-        "role": "flavor texture",
-        "quantity": 1.5
-      },
-      {
-        "measure": "package",
-        "name": "chocolate sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "miniature semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "packages",
-        "name": "chocolate covered thin mint",
-        "role": "flavor texture",
-        "quantity": 1.2
-      },
-      {
-        "measure": "cups",
-        "name": "semisweet chocolate morsel",
+        "measure": "ounces",
+        "name": "unsweetened chocolate",
         "role": "flavor texture",
         "quantity": 2.0
-      },
-      {
-        "measure": "package",
-        "name": "sifted whole wheat pastry flour",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "flour",
-        "role": "flour",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "all purpose flour",
-        "role": "flour",
-        "quantity": 0.6
-      },
-      {
-        "measure": "cup",
-        "name": "soy flour",
-        "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "package",
-        "name": "instant pistachio pudding mix",
-        "role": "flour",
-        "quantity": 0.2
       }
     ],
-    "title": "powder cookie chip chocolate large cookies",
-    "instructions": "\nAdd butter or margarine, shortening, peanut butter cup, reduced fat peanut butter, pearl sugar, turbinado sugar and dry sugar cookie mix. Then add heavy cream, hot water, reduced-sugar maple syrup, nonfat dry milk powder, warm milk, baking powder, sifted whole wheat pastry flour, flour, all purpose flour, soy flour and instant pistachio pudding mix. Finally, join the following flavour textures: finely ground almond, peppermint patty, mini vanilla wafer cookie, multicolored candy sprinkle, candied pineapple, McCormick\u00ae Pure Vanilla Extract, Kentucky bourbon, chocolate sprinkle, miniature semisweet chocolate chip, chocolate covered thin mint and semisweet chocolate morsel. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 283,
-    "properties": {
-      "crunchiness": "crunchy",
-      "spread": "low"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "softened butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "clarified butter",
-        "role": "fat",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "smooth peanut butter",
-        "role": "fat",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "turbinado sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "reduced-fat creamy peanut butter",
-        "role": "binding agent",
-        "quantity": 0.1
-      },
-      {
-        "measure": "tablespoons",
-        "name": "heavy cream",
-        "role": "binding agent",
-        "quantity": 1.8
-      },
-      {
-        "measure": "cups",
-        "name": "reduced-sugar maple syrup",
-        "role": "binding agent",
-        "quantity": 0.9
-      },
-      {
-        "measure": "units",
-        "name": "Ghirardelli Milk Chocolate Chip",
-        "role": "binding agent",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "dark corn syrup",
-        "role": "binding agent",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "multicolored candy sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "can",
-        "name": "Earl Grey tea",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cups",
-        "name": "pitted chopped date",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "package",
-        "name": "chocolate sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "chopped peanut",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "pound",
-        "name": "red candied cherry",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "units",
-        "name": "mini vanilla wafer cookie",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "hot fudge topping",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "cups",
-        "name": "semisweet chocolate morsel",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "tablespoon",
-        "name": "chocolate-covered caramel candy",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "non-instant mocha chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cups",
-        "name": "instant chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "cook-and-serve chocolate pudding mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "soy flour",
-        "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cups",
-        "name": "whole-wheat flour",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "sorghum flour",
-        "role": "flour",
-        "quantity": 0.2
-      }
-    ],
-    "title": "chopped powder chopped peanut multicolored candy sprinkle semisweet chocolate morsel mini vanilla wafer cookie chocolate cookies",
-    "instructions": "\nAdd softened butter, clarified butter, smooth peanut butter, turbinado sugar and soft brown sugar. Then add reduced-fat creamy peanut butter, heavy cream, reduced-sugar maple syrup, Ghirardelli Milk Chocolate Chip, dark corn syrup, baking powder, non-instant mocha chocolate pudding mix, instant chocolate pudding mix, cook-and-serve chocolate pudding mix, soy flour, whole-wheat flour and sorghum flour. Finally, join the following flavour textures: multicolored candy sprinkle, Earl Grey tea, pitted chopped date, chocolate sprinkle, chopped peanut, red candied cherry, mini vanilla wafer cookie, hot fudge topping, semisweet chocolate morsel and chocolate-covered caramel candy. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 282,
-    "properties": {
-      "crunchiness": "chewey",
-      "spread": "low"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "softened butter",
-        "role": "fat",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "reduced fat peanut butter",
-        "role": "fat",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "smooth peanut butter",
-        "role": "fat",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "powdered sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 1.0
-      },
-      {
-        "measure": "units",
-        "name": "Ghirardelli Milk Chocolate Chip",
-        "role": "binding agent",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "evaporated milk",
-        "role": "binding agent",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cup",
-        "name": "cream cheese at room temperature",
-        "role": "binding agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "reduced-fat creamy peanut butter",
-        "role": "binding agent",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "miniature semisweet chocolate chip",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "small",
-        "name": "peppermint patty",
-        "role": "flavor texture",
-        "quantity": 12.0
-      },
-      {
-        "measure": "teaspoon",
-        "name": "almond paste",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoon",
-        "name": "cider vinegar",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "teaspoons",
-        "name": "maple-flavored extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "cold coffee",
-        "role": "flavor texture",
-        "quantity": 0.3
-      },
-      {
-        "measure": "units",
-        "name": "large chocolate chip cookie",
-        "role": "flavor texture",
-        "quantity": 96.0
-      },
-      {
-        "measure": "cups",
-        "name": "roasted Spanish peanut",
-        "role": "flavor texture",
-        "quantity": 2.0
-      },
-      {
-        "measure": "cup",
-        "name": "slivered almond",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "cornstarch",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "package",
-        "name": "orange cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "package",
-        "name": "white cake mix",
-        "role": "flour",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "soy flour",
-        "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "can",
-        "name": "crushed pineapple with juice",
-        "role": "binding agent",
-        "quantity": 0.3
-      }
-    ],
-    "title": "ground powder chopped maple vinegar semisweet extract miniature flavored chip cider chocolate finely almond cookies",
-    "instructions": "\nAdd softened butter, reduced fat peanut butter, solid vegetable oil-butter spread, smooth peanut butter, powdered sugar and soft brown sugar. Then add Ghirardelli Milk Chocolate Chip, evaporated milk, cream cheese at room temperature, reduced-fat creamy peanut butter, baking powder, cornstarch, orange cake mix, white cake mix, soy flour and crushed pineapple with juice. Finally, join the following flavour textures: miniature semisweet chocolate chip, peppermint patty, almond paste, cider vinegar, maple-flavored extract, cold coffee, large chocolate chip cookie, roasted Spanish peanut and slivered almond. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
+    "title": "miniature chip oat chocolate semisweet chopped cookies",
+    "instructions": "\r\nAdd non-dairy butter, HERSHEY'S\u00ae Chipits\u00ae Butterscotch Flavoured Baking Chip, cold butter, coarse sugar crystal and cane sugar. Then add large egg yolk, creamy salad dressing, egg, freshly squeezed lemon juice, orange juice, dry pancake mix, cake mix with candy bits, unsweetened lemonade flavor drink mix, chocolate cake mix and baking powder. Finally, join the following flavour textures: chopped golden raisin, mint extract, miniature semisweet chocolate chip, uncooked old-fashioned oat, large jalapeno pepper, quinoa, whole clove, cocoa powder, flax seed meal and unsweetened chocolate. \r\nPut the dough in the oven from 2 to 20 minutes. Take it from the oven and let it cool down.",
     "fitness": 281,
     "properties": {
-      "crunchiness": "crunchy",
-      "spread": "low"
-    }
-  },
-  {
-    "ingredients": [
-      {
-        "measure": "cup",
-        "name": "solid vegetable oil-butter spread",
-        "role": "fat",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "clarified butter",
-        "role": "fat",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cups",
-        "name": "cold butter",
-        "role": "fat",
-        "quantity": 0.5
-      },
-      {
-        "measure": "cup",
-        "name": "turbinado sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "dry sugar cookie mix",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "soft brown sugar",
-        "role": "sugar",
-        "quantity": 0.2
-      },
-      {
-        "measure": "tablespoons",
-        "name": "heavy cream",
-        "role": "binding agent",
-        "quantity": 1.8
-      },
-      {
-        "measure": "tablespoon",
-        "name": "water",
-        "role": "binding agent",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "vanilla-flavored almond milk",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "cup",
-        "name": "nonfat dry milk powder",
-        "role": "binding agent",
-        "quantity": 0.3
-      },
-      {
-        "measure": "tablespoons",
-        "name": "warm water",
-        "role": "binding agent",
-        "quantity": 1.0
-      },
-      {
-        "measure": "teaspoons",
-        "name": "hot water",
-        "role": "binding agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "teaspoon",
-        "name": "baking powder",
-        "role": "rising agent",
-        "quantity": 0.7
-      },
-      {
-        "measure": "units",
-        "name": "McCormick\u00ae Pure Vanilla Extract",
-        "role": "flavor texture",
-        "quantity": 1.0
-      },
-      {
-        "measure": "units",
-        "name": "large chocolate chip cookie",
-        "role": "flavor texture",
-        "quantity": 96.0
-      },
-      {
-        "measure": "package",
-        "name": "chocolate sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cups",
-        "name": "candied lemon peel",
-        "role": "flavor texture",
-        "quantity": 0.7
-      },
-      {
-        "measure": "cup",
-        "name": "multicolored candy sprinkle",
-        "role": "flavor texture",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cups",
-        "name": "chopped cashew",
-        "role": "flavor texture",
-        "quantity": 0.9
-      },
-      {
-        "measure": "small",
-        "name": "peppermint patty",
-        "role": "flavor texture",
-        "quantity": 12.0
-      },
-      {
-        "measure": "cup",
-        "name": "chopped peanut",
-        "role": "flavor texture",
-        "quantity": 0.2
-      },
-      {
-        "measure": "cup",
-        "name": "hot fudge topping",
-        "role": "flavor texture",
-        "quantity": 0.8
-      },
-      {
-        "measure": "packages",
-        "name": "chocolate covered thin mint",
-        "role": "flavor texture",
-        "quantity": 1.2
-      },
-      {
-        "measure": "cups",
-        "name": "devil's food chocolate cake mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "cup",
-        "name": "soy flour",
-        "role": "flour",
-        "quantity": 0.1
-      },
-      {
-        "measure": "cups",
-        "name": "non-instant mocha chocolate pudding mix",
-        "role": "flour",
-        "quantity": 1.0
-      },
-      {
-        "measure": "tablespoon",
-        "name": "cherry flavored Jell-O\u00ae mix",
-        "role": "flour",
-        "quantity": 0.4
-      },
-      {
-        "measure": "cup",
-        "name": "refrigerated cookie dough",
-        "role": "flour",
-        "quantity": 0.4
-      }
-    ],
-    "title": "chopped powder chopped peanut peppermint patty chocolate covered thin mint chopped cashew chocolate cookies",
-    "instructions": "\nAdd solid vegetable oil-butter spread, clarified butter, cold butter, turbinado sugar, dry sugar cookie mix and soft brown sugar. Then add heavy cream, water, vanilla-flavored almond milk, nonfat dry milk powder, warm water, hot water, baking powder, devil's food chocolate cake mix, soy flour, non-instant mocha chocolate pudding mix, cherry flavored Jell-O\u00ae mix and refrigerated cookie dough. Finally, join the following flavour textures: McCormick\u00ae Pure Vanilla Extract, large chocolate chip cookie, chocolate sprinkle, candied lemon peel, multicolored candy sprinkle, chopped cashew, peppermint patty, chopped peanut, hot fudge topping and chocolate covered thin mint. \nPut the dough in the oven from 2 to 15 minutes. Take it from the oven and let it cool down.",
-    "fitness": 279,
-    "properties": {
-      "crunchiness": "crunchy",
-      "spread": "low"
+      "crunchiness": "chewey",
+      "spread": "high"
     }
   }
 ]
