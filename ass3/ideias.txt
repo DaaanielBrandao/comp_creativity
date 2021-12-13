@@ -1,0 +1,18 @@
+evolutionary algorithm
+
+1. criar populacao random
+    -> a cada planta é adicionado aos quartos imutaveis quartos random 1 a 1, colados a outro quarto
+2. aplicar algoritmo
+    -> mutacoes: (só aplicaveis a quartos imutaveis)
+        swap a 2 quartos
+        alargar um quarto até 'bater' noutro (ou distancia maxima)
+        remover um quarto e colocar noutro sitio
+        diminuir quarto(?)
+        adicionar quarto(?)
+        remover quarto(?)
+    -> crossover parece nao viavel
+    -> funcao de avaliacao
+        - vizinhanca de certos quartos
+        - proximidade de certos quartos
+        - proporcoes de certos quartos
+        - area comparada com perimetro
